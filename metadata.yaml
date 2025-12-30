@@ -1,0 +1,60 @@
+---
+title: "Beyond the Burn"
+subtitle: "An Ecological Approach to Oral Health"
+author: "The Tooth Fairy"
+date: 2025
+lang: en-US
+description: |
+  A comprehensive guide to oral health that challenges the 
+  antiseptic paradigm and explores ecological, botanical, and 
+  evidence-based approaches to keeping your teeth where they belong.
+
+# Document structure
+documentclass: book
+toc: true
+toc-depth: 2
+numbersections: true
+secnumdepth: 2
+
+# Page layout
+papersize: letter
+geometry:
+  - margin=1in
+  - inner=1.25in
+  - outer=1in
+fontsize: 11pt
+linestretch: 1.4
+
+# Typography (for PDF via XeLaTeX)
+mainfont: "Linux Libertine O"
+sansfont: "Linux Biolinum O"
+monofont: "Fira Code"
+mathfont: "Latin Modern Math"
+
+# Headers and footers
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[LE,RO]{\thepage}
+  - \fancyhead[RE]{\textit{Beyond the Burn}}
+  - \fancyhead[LO]{\textit{\leftmark}}
+  - \fancyfoot{}
+
+# EPUB-specific
+epub-cover-image: cover.png
+epub-metadata: null
+
+# Code blocks
+highlight-style: tango
+listings: true
+
+# Links
+colorlinks: true
+linkcolor: darkblue
+urlcolor: blue
+citecolor: darkgreen
+
+# Miscellaneous
+reference-section-title: "References"
+link-citations: true
+---

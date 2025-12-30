@@ -1,0 +1,65 @@
+:root {
+  --md-primary-fg-color: #009688;
+  --md-primary-fg-color--light: #4DB6AC;
+  --md-primary-fg-color--dark: #00796B;
+  --md-accent-fg-color: #FFC107;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+  padding: 2rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+}
+
+[data-md-color-scheme="slate"] .hero-section {
+  background: linear-gradient(135deg, #1a3a38 0%, #0d2624 100%);
+}
+
+.closing-note {
+  font-style: italic;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 3rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background-color: var(--md-code-bg-color);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+th {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] th {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset strong {
+  color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-scheme="slate"] .md-typeset strong {
+  color: var(--md-primary-fg-color--light);
+}
+
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,5 @@
+# MkDocs dependencies for "Beyond the Burn"
+# Install with: pip install -r requirements.txt
+
+mkdocs-material>=9.0
+mkdocs-minify-plugin>=0.7
