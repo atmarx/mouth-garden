@@ -1,0 +1,45 @@
+{
+  "projectType": "documentation",
+  "primaryLanguage": "markdown",
+  "buildSystem": "mkdocs",
+  
+  "sourceDirectories": [
+    "manuscript/"
+  ],
+  
+  "generatedDirectories": [
+    "docs/",
+    "site/",
+    "combined/",
+    "output/"
+  ],
+  
+  "keyFiles": [
+    "manuscript/",
+    "mkdocs.yml",
+    "mkdocs-build.sh",
+    "README.md",
+    "TODO.md"
+  ],
+  
+  "conventions": {
+    "voice": "Tooth Fairy - ancient, weary, scientifically rigorous, warm but exasperated",
+    "formatting": "Markdown with minimal HTML, tables for data, blockquotes for asides",
+    "citations": "Inline references (Author Year) - formal citations TODO",
+    "evidenceTiers": "Tier 1-5 system documented in Appendix C"
+  },
+  
+  "commands": {
+    "preview": "./mkdocs-build.sh serve",
+    "build": "./mkdocs-build.sh build",
+    "prepare": "./mkdocs-build.sh prepare",
+    "pdf": "./build.sh pdf"
+  },
+  
+  "notes": [
+    "Edit manuscript/ files only - docs/ is generated",
+    "After adding chapters, update both mkdocs.yml and mkdocs-build.sh",
+    "The foreword is in human voice; everything else is Tooth Fairy voice",
+    "License: CC BY 4.0"
+  ]
+}
