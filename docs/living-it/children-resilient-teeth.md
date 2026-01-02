@@ -1,4 +1,4 @@
-# Chapter 32: Raising Resilient Teeth
+# Chapter 33: Raising Resilient Teeth
 
 Children occupy a special place in my work. Their baby teeth are temporary—I'll collect them eventually regardless—but those primary teeth matter far more than people realize. And their permanent teeth, the ones that need to last 70+ years, are forming and erupting during a critical window when habits get established and enamel is most vulnerable.
 

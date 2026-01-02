@@ -1,4 +1,4 @@
-# Chapter 31: Building Your Personal Protocol
+# Chapter 32: Building Your Personal Protocol
 
 Not everyone has the same risk factors, the same resources, or the same lifestyle. A 25-year-old vegetarian with excellent salivary flow needs a different approach than a 60-year-old diabetic on multiple medications that cause dry mouth. One-size-fits-all protocols are convenient but suboptimal.
 
@@ -48,6 +48,7 @@ Let me help you assess your situation and build a protocol tailored to your actu
 | Crowded teeth | Cleaning difficulty |
 
 **Lower risk if you have:**
+
 - No bleeding on brushing/flossing
 - Non-smoker
 - Well-controlled health conditions

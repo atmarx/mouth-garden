@@ -1,4 +1,4 @@
-# Chapter 33: When to See a Professional
+# Chapter 34: When to See a Professional
 
 ## What Natural Approaches Can't Fix
 
@@ -109,6 +109,7 @@ I understand. Truly, I do. I've watched dental treatment evolve from its earlies
 Modern dentistry is different. Anesthesia is effective. Techniques are refined. Many procedures are genuinely painless. And dentists increasingly understand that patient anxiety is real and must be addressed.
 
 If fear is keeping you from care:
+
 - Communicate your anxiety to your dental provider
 - Ask about sedation options for procedures
 - Start with just an examination—no treatment—to build trust

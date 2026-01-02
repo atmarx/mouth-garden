@@ -1,4 +1,4 @@
-# Chapter 30: A Day in the Optimized Mouth
+# Chapter 31: A Day in the Optimized Mouth
 
 Let me walk you through what an ecologically-informed day of oral care might look like. This isn't prescriptive—you don't need to do everything here. It's illustrative, showing how the principles we've discussed translate into practical timing and choices.
 

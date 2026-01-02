@@ -1,4 +1,4 @@
-# Chapter 27: Emerging Technologies — CPP-ACP, Bioactive Glasses, and the Future
+# Chapter 28: Emerging Technologies — CPP-ACP, Bioactive Glasses, and the Future
 
 The remineralization landscape is evolving rapidly. Beyond fluoride and nano-hydroxyapatite, several technologies are emerging that may define the next generation of dental care. Some are already available; others remain in the research pipeline. All of them share a common philosophy: work with the natural chemistry of teeth rather than just killing bacteria and hoping for the best.
 

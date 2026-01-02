@@ -1,4 +1,4 @@
-# Chapter 26: Nano-Hydroxyapatite — The Space-Age Alternative
+# Chapter 27: Nano-Hydroxyapatite — The Space-Age Alternative
 
 In the 1970s, NASA had a problem. Astronauts returning from space missions showed signs of bone and tooth mineral loss—the result of calcium leaching in microgravity environments. The space agency needed a way to restore that lost mineral, and their research led to an unexpected dental innovation: synthetic hydroxyapatite.
 
