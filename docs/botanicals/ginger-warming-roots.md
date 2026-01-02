@@ -152,3 +152,13 @@ The ginger provides anti-inflammatory and mild antimicrobial action; the salt an
 In the next chapter, we'll explore another category of botanical allies: the Mediterranean herbs—sage, thyme, and chamomile—whose healing properties were known to the ancient Greeks and Romans and continue to be validated today.
 
 ---
+
+## Further Reading
+
+For detailed monographs on the herbs discussed in this chapter, see herbalist Richard Whelan's excellent reference:
+
+- [Ginger](https://www.rjwhelan.co.nz/herbs A-Z/ginger.html) — Comprehensive profile including traditional uses, active constituents, and safety considerations
+- [Turmeric](https://www.rjwhelan.co.nz/herbs A-Z/turmeric.html) — In-depth exploration of curcumin and its therapeutic applications
+- [Cayenne](https://www.rjwhelan.co.nz/herbs A-Z/cayenne.html) — Another warming root with circulatory and anti-inflammatory properties
+
+---

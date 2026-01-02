@@ -162,3 +162,11 @@ This is why I keep emphasizing *understanding* rather than following rules blind
 Licorice isn't sucrose. Manuka isn't table sugar. The mouth knows the difference—and so should you.
 
 ---
+
+## Further Reading
+
+For a detailed monograph on licorice, see herbalist Richard Whelan's excellent reference:
+
+- [Licorice Root](https://www.rjwhelan.co.nz/herbs A-Z/licorice.html) — Comprehensive profile including traditional uses, glycyrrhizin safety considerations, and therapeutic applications
+
+---

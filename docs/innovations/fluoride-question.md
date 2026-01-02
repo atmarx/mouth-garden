@@ -105,6 +105,7 @@ The dose-response is well-characterized:
 | > 0.1 mg/kg/day | Moderate-severe fluorosis risk |
 
 This is why:
+
 - Children's toothpaste often has lower fluoride concentrations
 - Parents are advised to supervise brushing and use only a pea-sized amount
 - Water fluoridation is calibrated to provide benefit without excessive intake
@@ -154,21 +155,26 @@ The updated recommendation from many dental organizations (including the UK's Na
 
 This keeps a thin film of fluoride on your teeth, extending the contact time and maximizing remineralization benefit. It feels strange at first (you're used to the "clean rinse" feeling), but the chemistry is sound.
 
-## The RO Water Issue
+## The Filtered Water Consideration
 
-You mentioned having a reverse osmosis filtration system. Here's what you should know:
+Many health-conscious people filter their drinking water—and honestly, I understand why. The state of municipal water quality varies widely, and concerns about chlorine byproducts, heavy metals, microplastics, and pharmaceutical residues are not unfounded. It's somewhat tragic that filtering your own water has become a reasonable precaution, but here we are.
 
-**RO removes fluoride.** The fluoride ion is small but charged, and RO membranes typically remove 85-95% of fluoride from water.
+Reverse osmosis (RO) systems, in particular, are remarkably effective at removing contaminants. They're also remarkably effective at removing fluoride.
 
-If your municipal water is fluoridated at 0.7 ppm, your RO-filtered water probably contains less than 0.1 ppm fluoride—essentially non-fluoridated.
+**RO removes fluoride.** The fluoride ion is small but charged, and RO membranes typically remove 85-95% of fluoride from water. If your municipal water is fluoridated at 0.7 ppm, RO-filtered water probably contains less than 0.1 ppm fluoride—essentially non-fluoridated.
 
-**For adults:** This is probably fine. Topical fluoride from toothpaste is more important for erupted teeth than systemic fluoride from drinking water. If you're using fluoride toothpaste twice daily with the "spit, don't rinse" technique, you're getting adequate fluoride exposure.
+This creates a consideration worth thinking through:
 
-**For children:** More concerning. Developing teeth benefit from systemic fluoride exposure for optimal enamel formation. Options include:
+**For adults:** This is probably fine. Topical fluoride from toothpaste is more important for erupted teeth than systemic fluoride from drinking water. If you're using fluoride toothpaste twice daily with the "spit, don't rinse" technique, you're getting adequate fluoride exposure to your teeth.
+
+**For children:** More thought is warranted. Developing teeth benefit from systemic fluoride exposure for optimal enamel formation. If your household uses RO filtration, options to consider include:
+
 - Fluoride supplements (by prescription, dosed to age)
 - Ensuring adequate fluoride toothpaste use (with supervision to minimize swallowing)
-- Drinking some non-RO water
-- Discussing with a pediatric dentist
+- Having children drink some non-filtered water
+- Discussing the situation with a pediatric dentist
+
+The irony isn't lost on me: people filter their water to be healthier, then need to think carefully about one mineral they may have filtered out. But this is the kind of nuanced thinking that leads to genuinely good outcomes—not blindly accepting everything in tap water, but not blindly rejecting everything either.
 
 ## My Overall Assessment
 

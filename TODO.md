@@ -40,18 +40,10 @@ Future improvements and ideas for "Beyond the Burn."
 
 ## Technical / Build System
 
-### High Priority
-
-- [ ] **GitHub Actions workflow** — Auto-build and deploy to GitHub Pages
-- [ ] **Version tagging** — Semantic versioning for releases
-- [ ] **PDF cover design** — Professional cover for Pandoc PDF output
-- [ ] **EPUB metadata** — Proper e-book metadata and cover
-
 ### Medium Priority
 
-- [ ] **Search improvements** — Better MkDocs search configuration
+- [ ] **Version tagging** — Semantic versioning for releases
 - [ ] **Print stylesheet** — CSS for browser print-to-PDF
-- [ ] **Anchor links** — Deep linking to specific sections
 - [ ] **Reading time estimates** — Per-chapter reading time
 - [ ] **Progress tracking** — "You've read 12 of 33 chapters"
 
@@ -104,7 +96,6 @@ Topics that could expand existing chapters or become new ones:
 
 ## Community / Distribution
 
-- [ ] **Website hosting** — Deploy to custom domain
 - [ ] **Social sharing** — Open Graph metadata for previews
 - [ ] **Print-on-demand** — Amazon KDP, IngramSpark setup
 - [ ] **Newsletter** — Update notifications for readers
@@ -115,14 +106,11 @@ Topics that could expand existing chapters or become new ones:
 
 ## Known Issues
 
-- [ ] `build.sh` PDF generation untested on Windows/WSL
 - [ ] Some Material theme icons may not render in older browsers
-- [ ] MathJax equations need testing in EPUB format
-- [ ] Combined manuscript needs page break markers for PDF
 
 ---
 
-## Completed ✓
+## Completed
 
 - [x] Core manuscript (33 chapters + 4 appendices)
 - [x] Foreword with CC BY 4.0 license
@@ -130,11 +118,13 @@ Topics that could expand existing chapters or become new ones:
 - [x] Semantic URL structure
 - [x] Dark/light mode support
 - [x] Full-text search
-- [x] Self-contained build scripts
-- [x] Virtual environment management
+- [x] Self-contained build script with venv management
 - [x] Responsive mobile design
 - [x] Homepage with all section cards
+- [x] GitHub Actions CI/CD workflow
+- [x] Website deployment (https://toothfairy.rf.gd/)
+- [x] Anchor links / deep linking to sections
 
 ---
 
-*Last updated: December 2024*
+*Last updated: January 2026*

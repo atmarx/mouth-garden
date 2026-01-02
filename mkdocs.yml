@@ -1,7 +1,7 @@
 site_name: "Beyond the Burn"
 site_description: "An Ecological Approach to Oral Health — As narrated by the Tooth Fairy"
 site_author: "The Tooth Fairy"
-site_url: ""
+site_url: "https://toothfairy.rf.gd/"
 
 # Theme configuration
 theme:
@@ -103,7 +103,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Extra
@@ -116,7 +115,7 @@ extra:
 
 # Copyright
 copyright: >
-  Copyright &copy; 2025 The Tooth Fairy —
+  Copyright &copy; 2026 The Tooth Fairy —
   <em>"Every tooth I collect is a small tragedy."</em>
 
 # Navigation
@@ -167,24 +166,25 @@ nav:
     - "22. Green Tea, Cranberry & Neem": botanicals/green-tea-cranberry-neem.md
     - "23. Oil Pulling": botanicals/oil-pulling-coconut-sesame.md
     - "24. Charcoal & Modern Trends": botanicals/charcoal-modern-trends.md
-  
+    - "25. Additional Botanicals": botanicals/additional-botanicals.md
+
   - "Part VII — Modern Innovations":
     - innovations/index.md
-    - "25. The Fluoride Question": innovations/fluoride-question.md
-    - "26. Nano-Hydroxyapatite": innovations/nano-hydroxyapatite.md
-    - "27. Probiotics & Emerging Tech": innovations/emerging-probiotics-arginine.md
+    - "26. The Fluoride Question": innovations/fluoride-question.md
+    - "27. Nano-Hydroxyapatite": innovations/nano-hydroxyapatite.md
+    - "28. Probiotics & Emerging Tech": innovations/emerging-probiotics-arginine.md
   
   - "Part VIII — The Bigger Picture":
     - bigger-picture/index.md
-    - "28. The Oral-Systemic Connection": bigger-picture/oral-systemic-connection.md
-    - "29. Breath & the Social Mouth": bigger-picture/breath-halitosis-social.md
+    - "29. The Oral-Systemic Connection": bigger-picture/oral-systemic-connection.md
+    - "30. Breath & the Social Mouth": bigger-picture/breath-halitosis-social.md
   
   - "Part IX — Living It":
     - living-it/index.md
-    - "30. A Day in the Optimized Mouth": living-it/day-in-optimized-mouth.md
-    - "31. Building Your Protocol": living-it/building-personal-protocol.md
-    - "32. Children & Resilient Teeth": living-it/children-resilient-teeth.md
-    - "33. When to See a Professional": living-it/when-to-see-professional.md
+    - "31. A Day in the Optimized Mouth": living-it/day-in-optimized-mouth.md
+    - "32. Building Your Protocol": living-it/building-personal-protocol.md
+    - "33. Children & Resilient Teeth": living-it/children-resilient-teeth.md
+    - "34. When to See a Professional": living-it/when-to-see-professional.md
   
   - "Reference":
     - reference/index.md

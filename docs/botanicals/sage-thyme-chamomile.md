@@ -201,3 +201,15 @@ These herbs are still here, still effective, still available. You can grow them 
 Sometimes the most sophisticated medicine is also the simplest.
 
 ---
+
+## Further Reading
+
+For detailed monographs on the herbs discussed in this chapter, see herbalist Richard Whelan's excellent reference:
+
+- [Sage](https://www.rjwhelan.co.nz/herbs A-Z/sage.html) — Traditional uses, active constituents, and therapeutic applications
+- [Thyme](https://www.rjwhelan.co.nz/herbs A-Z/thyme.html) — In-depth profile of this powerful antimicrobial herb
+- [Chamomile](https://www.rjwhelan.co.nz/herbs A-Z/chamomile.html) — Comprehensive guide to the gentle healer
+- [Rosemary](https://www.rjwhelan.co.nz/herbs A-Z/rosemary.html) — A related Mediterranean herb with similar rosmarinic acid content
+- [Lavender](https://www.rjwhelan.co.nz/herbs A-Z/lavender.html) — Another aromatic herb from the Mediterranean tradition
+
+---

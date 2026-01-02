@@ -234,3 +234,14 @@ The best use of essential oils in oral care is as a *complement* to the basic ap
 And please, for the love of all that is dental—don't get your oral health advice from someone trying to sell you a starter kit.
 
 ---
+
+## Further Reading
+
+For detailed monographs on herbs that produce the essential oils discussed in this chapter, see herbalist Richard Whelan's excellent reference:
+
+- [Thyme](https://www.rjwhelan.co.nz/herbs A-Z/thyme.html) — Source of thymol; comprehensive profile of this powerful antimicrobial
+- [Peppermint](https://www.rjwhelan.co.nz/herbs A-Z/peppermint.html) — Source of menthol; traditional uses and therapeutic applications
+- [Fennel](https://www.rjwhelan.co.nz/herbs A-Z/fennel.html) — Aromatic herb with oral health applications
+- [Essential Oils Overview](https://www.rjwhelan.co.nz/herbs A-Z/essential_oils.html) — General guidance on essential oil safety and use
+
+---

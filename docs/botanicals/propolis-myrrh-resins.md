@@ -181,3 +181,11 @@ These resinous substances represent concentrated plant medicine. Unlike teas, wh
 Respect the potency, use them appropriately, and they can be powerful allies for oral health.
 
 ---
+
+## Further Reading
+
+For a detailed monograph on myrrh, see herbalist Richard Whelan's excellent reference:
+
+- [Myrrh](https://www.rjwhelan.co.nz/herbs A-Z/myrrh.html) — Comprehensive profile including traditional uses, active constituents, and therapeutic applications
+
+---
