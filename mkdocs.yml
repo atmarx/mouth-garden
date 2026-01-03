@@ -1,5 +1,5 @@
-site_name: "Beyond the Burn"
-site_description: "An Ecological Approach to Oral Health — As narrated by the Tooth Fairy"
+site_name: "Tending Your Mouth Garden"
+site_description: "What the Tooth Fairy Has Been Trying to Tell You"
 site_author: "The Tooth Fairy"
 site_url: "https://toothfairy.rf.gd/"
 
@@ -116,13 +116,14 @@ extra:
 
 # Copyright
 copyright: >
-  Copyright &copy; 2026 The Tooth Fairy —
-  <em>"Every tooth I collect is a small tragedy."</em>
+  <a href="frontmatter/foreword/#license">© 2026 Andrew Marx — CC BY 4.0</a> ·
+  <em>"Every tooth I collect is a small tragedy."</em> — The Tooth Fairy
 
 # Navigation
 nav:
   - Home: index.md
   - Foreword: frontmatter/foreword.md
+  - Disclaimer: frontmatter/disclaimer.md
   - Preface: frontmatter/preface.md
   - Introduction: frontmatter/introduction.md
   

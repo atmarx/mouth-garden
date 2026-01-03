@@ -1,8 +1,8 @@
-# Beyond the Burn
-
-## An Ecological Approach to Oral Health
+# Tending Your Mouth Garden
 
 ![Tooth fairy, weary after a life of collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
+
+## What the Tooth Fairy Has Been Trying to Tell You
 
 ## What This Book Is About
 

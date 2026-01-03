@@ -1,4 +1,4 @@
-# Contributing to Beyond the Burn
+# Contributing to Mouth Garden
 
 Thank you for your interest in contributing to this project! This document provides guidelines for contributions.
 

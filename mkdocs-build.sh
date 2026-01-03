@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# MkDocs build script for "Beyond the Burn"
+# MkDocs build script for "Mouth Garden"
 #
 # Manages Python virtual environment and MkDocs operations.
 # System requirements: python3, venv, pip
@@ -27,7 +27,7 @@ NC='\033[0m'
 
 print_header() {
     echo -e "${CYAN}╔════════════════════════════════════════════════════════════╗${NC}"
-    echo -e "${CYAN}║       Beyond the Burn — MkDocs Build System                ║${NC}"
+    echo -e "${CYAN}║       Mouth Garden — MkDocs Build System                   ║${NC}"
     echo -e "${CYAN}╚════════════════════════════════════════════════════════════╝${NC}"
     echo ""
 }

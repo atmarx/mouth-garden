@@ -57,7 +57,8 @@ th {
 }
 
 [data-md-color-scheme="slate"] .md-typeset strong {
-  color: var(--md-primary-fg-color--light);
+  color: #9ca;
+  font-weight: 700;
 }
 
 html {

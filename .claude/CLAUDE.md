@@ -6,7 +6,7 @@ This file provides context for Claude (or any AI assistant) working on this proj
 
 ## Project Overview
 
-**"Beyond the Burn: An Ecological Approach to Oral Health"** is a ~70,000-word book about oral health written from an ecological perspective. The core thesis is that the mouth is an ecosystem to be nurtured, not a battlefield to be sterilized.
+**"Tending Your Mouth Garden: What the Tooth Fairy Has Been Trying to Tell You"** is a ~70,000-word book about oral health written from an ecological perspective. The core thesis is that the mouth is an ecosystem to be nurtured, not a battlefield to be sterilized.
 
 ### The Voice
 

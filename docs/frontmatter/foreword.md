@@ -20,7 +20,9 @@ I hope you find something useful here. Read critically, experiment carefully, an
 
 ---
 
-## License
+## License & Copyright {#license}
+
+Copyright © 2026 Andrew Marx. All rights reserved under copyright law, but freely licensed for your use.
 
 This work is licensed under the **Creative Commons Attribution 4.0 International License** (CC BY 4.0).
 
@@ -33,4 +35,25 @@ Under the following terms:
 
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-Full license text: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Full license text: [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## How to Give Back
+
+This project lives on GitHub and welcomes contributions from anyone who wants to help improve oral health education.
+
+**Ways you can contribute:**
+
+- **Report errors** — Found a typo, broken link, or factual mistake? Let us know.
+- **Suggest improvements** — Have ideas for new topics, better explanations, or additional research to cite?
+- **Add traditional knowledge** — Know of oral health practices from cultures not yet represented here?
+- **Translate** — Help make this information accessible in other languages.
+- **Share** — The best contribution is simply spreading the word.
+
+**Get involved:**
+
+- :material-github: **GitHub Repository:** [github.com/anthropics/mouth-garden](https://github.com/anthropics/mouth-garden)
+- :material-file-document: **Contribution Guidelines:** See [CONTRIBUTING.md](https://github.com/anthropics/mouth-garden/blob/main/CONTRIBUTING.md) for details on how to submit changes.
+
+The Tooth Fairy appreciates every pair of eyes that helps make this resource better. After all, the more people who keep their teeth, the sooner she can retire to her garden.

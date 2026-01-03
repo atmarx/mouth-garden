@@ -1,4 +1,4 @@
-# MkDocs dependencies for "Beyond the Burn"
+# MkDocs dependencies for "Mouth Garden"
 # Install with: pip install -r requirements.txt
 
 mkdocs-material>=9.0

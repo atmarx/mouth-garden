@@ -1,7 +1,7 @@
-# Beyond the Burn
+# Tending Your Mouth Garden
 
-**An Ecological Approach to Oral Health**  
-*As narrated by the Tooth Fairy*
+**What the Tooth Fairy Has Been Trying to Tell You**
+*An Ecological Approach to Oral Health*
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
