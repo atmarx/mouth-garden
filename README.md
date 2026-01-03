@@ -25,7 +25,7 @@ The book synthesizes research across:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/mouth-garden.git
+git clone https://github.com/atmarx/mouth-garden.git
 cd mouth-garden
 
 # Set up environment and serve

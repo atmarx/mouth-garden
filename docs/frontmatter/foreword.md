@@ -53,7 +53,7 @@ This project lives on GitHub and welcomes contributions from anyone who wants to
 
 **Get involved:**
 
-- :material-github: **GitHub Repository:** [github.com/anthropics/mouth-garden](https://github.com/anthropics/mouth-garden)
-- :material-file-document: **Contribution Guidelines:** See [CONTRIBUTING.md](https://github.com/anthropics/mouth-garden/blob/main/CONTRIBUTING.md) for details on how to submit changes.
+- :material-github: **GitHub Repository:** [github.com/atmarx/mouth-garden](https://github.com/atmarx/mouth-garden)
+- :material-file-document: **Contribution Guidelines:** See [CONTRIBUTING.md](https://github.com/atmarx/mouth-garden/blob/main/CONTRIBUTING.md) for details on how to submit changes.
 
 The Tooth Fairy appreciates every pair of eyes that helps make this resource better. After all, the more people who keep their teeth, the sooner she can retire to her garden.

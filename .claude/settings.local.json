@@ -75,7 +75,10 @@
       "Bash(then)",
       "Bash(basename:*)",
       "Bash(ls:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git rebase:*)",
+      "Bash(GIT_EDITOR=true git rebase:*)",
+      "Bash(git add:*)"
     ]
   }
 }
