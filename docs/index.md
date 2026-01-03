@@ -38,7 +38,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     ---
 
-    Acid, sugar, and biofilm—understanding what actually causes decay and gum disease.
+    Acid, sugar, biofilm, and grinding—understanding what actually causes decay, gum disease, and mechanical damage.
 
     [:octicons-arrow-right-24: Know Your Enemy](enemies/index.md)
 
