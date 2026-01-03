@@ -56,4 +56,4 @@ This project lives on GitHub and welcomes contributions from anyone who wants to
 - :material-github: **GitHub Repository:** [github.com/atmarx/keep-your-teeth](https://github.com/atmarx/keep-your-teeth)
 - :material-file-document: **Contribution Guidelines:** See [CONTRIBUTING.md](https://github.com/atmarx/keep-your-teeth/blob/main/CONTRIBUTING.md) for details on how to submit changes.
 
-The Tooth Fairy appreciates every pair of eyes that helps make this resource better. After all, the more people who keep their teeth, the sooner she can retire to her garden.
+The Tooth Fairy appreciates every pair of eyes that helps make this resource better. After all, the more people who keep their teeth, the more time she can spend in her garden.
