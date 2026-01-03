@@ -1,4 +1,4 @@
-![The Tooth Fairy, weary after a lifetime spent collecting teeth.](./images/tooth-fairy.png){ width=250 align=right }
+![The Tooth Fairy, weary after a lifetime spent collecting teeth.](./images/tooth-fairy.webp){ width=250 align=right }
 
 # Keep Your Teeth!
 
