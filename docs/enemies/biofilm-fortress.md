@@ -36,11 +36,13 @@ This matrix isn't just passive packaging. It's functional infrastructure:
 
 ## The Architecture of Dental Plaque
 
+<!--
 !!! warning inline end "IMAGE PLACEHOLDER"
 
     **Biofilm Formation Stages**
 
     Generate a 4-panel sequential diagram showing dental plaque development: Panel 1 (0-2 hours): Clean tooth surface with salivary proteins forming the acquired pellicle. Panel 2 (0-24 hours): Pioneer bacteria (small spheres) attaching to pellicle. Panel 3 (1-3 days): Secondary colonizers attached via co-aggregation, Fusobacterium as bridge organisms, early EPS matrix visible. Panel 4 (1 week+): Mature biofilm with complex 3D structure, oxygen/pH gradients indicated, channels, and diverse bacterial community. Style: scientific cross-section illustration, progressively more complex, labeled time points, consistent color coding for different bacterial species.
+-->
 
 Dental plaque is the biofilm that forms on tooth surfaces. Its formation follows a predictable sequence:
 

@@ -14,11 +14,13 @@ Let me set the record straight—and give you the knowledge to keep your teeth t
 
 ## The Myth of Calcium Theft
 
+<!--
 !!! warning inline end "IMAGE PLACEHOLDER"
 
     **Pregnancy Oral Changes Diagram**
 
     Generate an illustration showing the key oral changes during pregnancy: enlarged blood vessels in gums (leading to pregnancy gingivitis), hormonal influence pathways (estrogen/progesterone affecting gingival tissue), and the mineralization of fetal teeth from maternal blood calcium (NOT from maternal teeth). Include a "myth vs. reality" visual element. Style: warm, educational, suitable for expectant mothers, not clinical or alarming.
+-->
 
 Let's address the most persistent myth first: **your baby does not steal calcium from your teeth.**
 

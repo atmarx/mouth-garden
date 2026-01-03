@@ -38,11 +38,13 @@ A good rule: **if a child can't tie their own shoes effectively, they can't brus
 
 ### The Oral Microbiome Is Being Established
 
+<!--
 !!! warning inline end "IMAGE PLACEHOLDER"
 
     **Oral Microbiome Colonization Timeline**
 
     Generate an illustration showing the timeline of oral microbiome establishment in children: sterile at birth, initial colonization from caregivers (especially mother), window of infectivity around 19-31 months when S. mutans typically colonizes, and gradual stabilization of adult-like microbiome by adolescence. Include icons showing transmission pathways (kisses, shared utensils, pacifier cleaning). Style: warm, educational, parent-friendly, not clinical.
+-->
 
 This is something most parents don't realize: **the bacteria that will populate your child's mouth for life are being acquired during early childhood.**
 

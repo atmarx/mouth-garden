@@ -46,11 +46,13 @@ A dry mouth is a mouth in crisis. If you take medications that cause dry mouth, 
 
 ### Root Surfaces: The Newly Vulnerable Territory
 
+<!--
 !!! warning inline end "IMAGE PLACEHOLDER"
 
     **Root Caries Diagram**
 
     Generate an illustration showing a tooth with gum recession exposing the root surface. Compare enamel-covered crown (highly mineralized, acid-resistant) with exposed cementum/dentin of root (less mineralized, more porous). Show bacterial plaque accumulating at the cementoenamel junction. Include an inset showing the cellular structure difference between enamel and root surface. Style: educational, suitable for older adult audience, not alarming but informative.
+-->
 
 As gums recede—from age, from past periodontal disease, sometimes from decades of overly aggressive brushing—the root surfaces of teeth become exposed.
 

@@ -40,11 +40,13 @@ This isn't just water with some stuff dissolved in it. This is a carefully formu
 
 ## The Supersaturation Secret
 
+<!--
 !!! warning inline end "IMAGE PLACEHOLDER"
 
     **Remineralization Cycle Diagram**
 
     Generate a circular diagram showing the demineralization/remineralization cycle. Include: enamel crystal structure at center; arrows showing calcium and phosphate ions leaving enamel during acid attack (demineralization); arrows showing ions returning to enamel from supersaturated saliva (remineralization); pH scale indicator showing critical pH 5.5 threshold; saliva depicted as the mineral reservoir. Add labels for "Acid attack," "pH drops below 5.5," "Saliva buffers," "pH rises above 5.5," and "Mineral redeposition." Style: clean circular flow diagram, educational, with mineral ions shown as small colored spheres.
+-->
 
 Remember from [the last chapter](enamel-crystal-chemistry.md) that enamel health depends on the saturation state of surrounding fluids? Here's the remarkable thing about saliva:
 
