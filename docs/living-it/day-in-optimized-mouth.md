@@ -1,4 +1,4 @@
-# Chapter 31: A Day in the Optimized Mouth
+# Chapter 32: A Day in the Optimized Mouth
 
 Let me walk you through what an ecologically-informed day of oral care might look like. This isn't prescriptive—you don't need to do everything here. It's illustrative, showing how the principles we've discussed translate into practical timing and choices.
 
@@ -192,6 +192,10 @@ For someone who "does the bare minimum and wonders why they keep getting cavitie
 That's it. Do those five things consistently and you'll probably be fine. Everything else in this book is optimization and deeper understanding—valuable, but the basics come first.
 
 The Tooth Fairy doesn't ask for perfection. I ask for consistency. Your teeth forgive occasional lapses; they don't forgive habitual neglect.
+
+---
+
+**A note on life stages:** This chapter describes an adult protocol. Children, pregnant individuals, and older adults have different needs—see [Chapter 34: Children and Resilient Teeth](children-resilient-teeth.md), [Chapter 36: Pregnancy and Oral Health](pregnancy-oral-health.md), and [Chapter 37: Oral Health in Later Years](elderly-oral-health.md) for specific guidance.
 
 ---
 

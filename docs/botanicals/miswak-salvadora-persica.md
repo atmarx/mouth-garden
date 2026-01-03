@@ -1,4 +1,4 @@
-# Chapter 17: The Miswak Tradition
+# Chapter 18: The Miswak Tradition
 
 Of all the botanical oral health traditions I've watched humans develop, none is more elegant than the miswak.
 

@@ -87,7 +87,7 @@ This book is about understanding what's actually happening in your mouth every h
 
     ---
 
-    Daily protocols, building your personal routine, children's teeth, and when to see a professional.
+    Daily protocols, life-stage guidance (children, pregnancy, later years), building your personal routine, and when to see a professional.
 
     [:octicons-arrow-right-24: Practical Application](living-it/index.md)
 
@@ -121,6 +121,6 @@ This book is about understanding what's actually happening in your mouth every h
 
 *"Read carefully. Apply wisely. And for the love of everything—stop burning your mouth with products that destroy the very ecosystem trying to protect you."*
 
-*— The Tooth Fairy, who has been doing this for far too long, and would like very much to stop*
+*— The Tooth Fairy, who would rather be in her garden than under your pillow*
 
 </div>

@@ -2,7 +2,7 @@
 
 Let me guess.
 
-You brush your teeth. Twice a day, probably, or at least most days. You might even floss—occasionally, guiltily, usually the week before a dental appointment. You use that mouthwash, the one that makes your eyes water and your gums feel like they've been through chemical processing. You're doing what you're supposed to do. asd 
+You brush your teeth. Twice a day, probably, or at least most days. You might even floss—occasionally, guiltily, usually the week before a dental appointment. You use that mouthwash, the one that makes your eyes water and your gums feel like they've been through chemical processing. You're doing what you're supposed to do.
 
 And yet.
 

@@ -23,7 +23,7 @@ Studies have shown calendula extracts reduce plaque and gingivitis comparable to
 
 **Preparation:** Tea or tincture used as a rinse; often combined with other antimicrobial herbs.
 
-**Further reading:** [Calendula](https://www.rjwhelan.co.nz/herbs A-Z/calendula.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Calendula](https://www.rjwhelan.co.nz/herbs%20A-Z/calendula.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -44,7 +44,7 @@ Echinacea's alkamides and polysaccharides modulate immune function while providi
 
 **Preparation:** Tincture added to rinses; tea for gargling.
 
-**Further reading:** [Echinacea](https://www.rjwhelan.co.nz/herbs A-Z/echinacea.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Echinacea](https://www.rjwhelan.co.nz/herbs%20A-Z/echinacea.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -65,7 +65,7 @@ Berberine, goldenseal's primary active constituent, has demonstrated antibacteri
 
 **Preparation:** Tincture diluted for rinse; direct application to infected areas.
 
-**Further reading:** [Golden Seal](https://www.rjwhelan.co.nz/herbs A-Z/goldenseal.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Golden Seal](https://www.rjwhelan.co.nz/herbs%20A-Z/goldenseal.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -84,7 +84,7 @@ The allantoin and aucubin in plantain promote tissue healing, while mucilage soo
 
 **Preparation:** Fresh leaf juice applied directly; tea as a rinse; often combined with calendula and echinacea.
 
-**Further reading:** [Plantain](https://www.rjwhelan.co.nz/herbs A-Z/plantain.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Plantain](https://www.rjwhelan.co.nz/herbs%20A-Z/plantain.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -103,7 +103,7 @@ Yarrow's combination of astringent, antimicrobial, and anti-inflammatory actions
 
 **Preparation:** Tea as a rinse; tincture for acute conditions.
 
-**Further reading:** [Yarrow](https://www.rjwhelan.co.nz/herbs A-Z/yarrow.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Yarrow](https://www.rjwhelan.co.nz/herbs%20A-Z/yarrow.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -124,7 +124,7 @@ Marshmallow doesn't kill bacteria, but its soothing mucilage can protect damaged
 
 **Preparation:** Cold water infusion (hot water destroys mucilage); tea swished and held in mouth.
 
-**Further reading:** [Marshmallow](https://www.rjwhelan.co.nz/herbs A-Z/marshmallow.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Marshmallow](https://www.rjwhelan.co.nz/herbs%20A-Z/marshmallow.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -143,7 +143,7 @@ Another mucilage-rich herb, slippery elm bark creates a protective, soothing coa
 
 **Preparation:** Powder mixed with water to form a gel; lozenges.
 
-**Further reading:** [Slippery Elm](https://www.rjwhelan.co.nz/herbs A-Z/slippery_elm.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Slippery Elm](https://www.rjwhelan.co.nz/herbs%20A-Z/slippery_elm.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -161,7 +161,7 @@ Known as the "toothache tree" in North America, prickly ash bark has a long hist
 
 **Preparation:** Tincture applied directly to painful area; tea as a rinse.
 
-**Further reading:** [Prickly Ash](https://www.rjwhelan.co.nz/herbs A-Z/prickly_ash.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Prickly Ash](https://www.rjwhelan.co.nz/herbs%20A-Z/prickly_ash.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -179,7 +179,7 @@ This is a more indirect application—hawthorn isn't applied topically to the mo
 
 **Preparation:** Tea, tincture, or capsules taken internally.
 
-**Further reading:** [Hawthorn](https://www.rjwhelan.co.nz/herbs A-Z/hawthorn.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Hawthorn](https://www.rjwhelan.co.nz/herbs%20A-Z/hawthorn.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -214,7 +214,7 @@ Another tannin-rich herb with astringent properties, raspberry leaf is gentler t
 
 **Preparation:** Tea as a rinse.
 
-**Further reading:** [Raspberry Leaf](https://www.rjwhelan.co.nz/herbs A-Z/raspberry_leaf.html) — Richard Whelan's comprehensive monograph
+**Further reading:** [Raspberry Leaf](https://www.rjwhelan.co.nz/herbs%20A-Z/raspberry_leaf.html) — Richard Whelan's comprehensive monograph
 
 ---
 
@@ -224,17 +224,17 @@ The following herbs also appear in traditional oral health remedies or have rele
 
 | Herb | Primary Actions | Potential Oral Applications |
 |------|-----------------|----------------------------|
-| [Barberry](https://www.rjwhelan.co.nz/herbs A-Z/barberry.html) | Antimicrobial (berberine) | Gum infections; alternative to goldenseal |
-| [Cleavers](https://www.rjwhelan.co.nz/herbs A-Z/cleavers.html) | Lymphatic support | Supporting drainage during oral infections |
-| [Elder](https://www.rjwhelan.co.nz/herbs A-Z/elder.html) | Antiviral, anti-inflammatory | Cold sores, viral mouth conditions |
-| [Hyssop](https://www.rjwhelan.co.nz/herbs A-Z/hyssop.html) | Antimicrobial, antiviral | Traditional mouth rinse herb |
-| [Lemon Balm](https://www.rjwhelan.co.nz/herbs A-Z/lemonbalm.html) | Antiviral, calming | Cold sores (herpes simplex) |
-| [Mullein](https://www.rjwhelan.co.nz/herbs A-Z/mullein.html) | Demulcent, anti-inflammatory | Soothing irritated tissues |
-| [Nettles](https://www.rjwhelan.co.nz/herbs A-Z/nettles.html) | Nutritive, mineralizing | Systemic support for tooth/bone health |
-| [Peppermint](https://www.rjwhelan.co.nz/herbs A-Z/peppermint.html) | Antimicrobial, cooling | Breath freshening, mild antimicrobial |
-| [Red Clover](https://www.rjwhelan.co.nz/herbs A-Z/red_clover.html) | Alterative | Traditional for mouth sores |
-| [Valerian](https://www.rjwhelan.co.nz/herbs A-Z/valerian.html) | Sedative, antispasmodic | Bruxism (teeth grinding) |
-| [White Willow](https://www.rjwhelan.co.nz/herbs A-Z/willow.html) | Anti-inflammatory, analgesic | Dental pain, inflammation |
+| [Barberry](https://www.rjwhelan.co.nz/herbs%20A-Z/barberry.html) | Antimicrobial (berberine) | Gum infections; alternative to goldenseal |
+| [Cleavers](https://www.rjwhelan.co.nz/herbs%20A-Z/cleavers.html) | Lymphatic support | Supporting drainage during oral infections |
+| [Elder](https://www.rjwhelan.co.nz/herbs%20A-Z/elder.html) | Antiviral, anti-inflammatory | Cold sores, viral mouth conditions |
+| [Hyssop](https://www.rjwhelan.co.nz/herbs%20A-Z/hyssop.html) | Antimicrobial, antiviral | Traditional mouth rinse herb |
+| [Lemon Balm](https://www.rjwhelan.co.nz/herbs%20A-Z/lemonbalm.html) | Antiviral, calming | Cold sores (herpes simplex) |
+| [Mullein](https://www.rjwhelan.co.nz/herbs%20A-Z/mullein.html) | Demulcent, anti-inflammatory | Soothing irritated tissues |
+| [Nettles](https://www.rjwhelan.co.nz/herbs%20A-Z/nettles.html) | Nutritive, mineralizing | Systemic support for tooth/bone health |
+| [Peppermint](https://www.rjwhelan.co.nz/herbs%20A-Z/peppermint.html) | Antimicrobial, cooling | Breath freshening, mild antimicrobial |
+| [Red Clover](https://www.rjwhelan.co.nz/herbs%20A-Z/red_clover.html) | Alterative | Traditional for mouth sores |
+| [Valerian](https://www.rjwhelan.co.nz/herbs%20A-Z/valerian.html) | Sedative, antispasmodic | Bruxism (teeth grinding) |
+| [White Willow](https://www.rjwhelan.co.nz/herbs%20A-Z/willow.html) | Anti-inflammatory, analgesic | Dental pain, inflammation |
 
 ---
 

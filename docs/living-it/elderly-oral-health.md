@@ -1,4 +1,4 @@
-# Chapter 36: The Long Game — Oral Health in the Later Years
+# Chapter 37: The Long Game — Oral Health in the Later Years
 
 *In which we address the unique challenges of aging mouths, debunk the myth that tooth loss is inevitable, and offer hope even to those who may have already given up*
 

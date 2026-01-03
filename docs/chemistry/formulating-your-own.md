@@ -1,4 +1,4 @@
-# Chapter 13: Formulating Your Own
+# Chapter 14: Formulating Your Own
 
 Now we get practical. I've given you the chemistry; I've explained the mechanisms; I've warned you about what doesn't work. In this chapter, I'm going to give you actual recipes—formulations you can make tonight with ingredients you probably already have.
 

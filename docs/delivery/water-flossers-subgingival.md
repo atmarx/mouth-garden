@@ -1,4 +1,4 @@
-# Chapter 15: Water Flossers and Subgingival Reach
+# Chapter 16: Water Flossers and Subgingival Reach
 
 The water flosser—branded as Waterpik by the company that pioneered the category—is a fascinating device. It's not a replacement for brushing. It's not exactly a replacement for flossing, though it comes closer. What it is, uniquely, is a delivery system.
 

@@ -1,4 +1,4 @@
-# Chapter 24: Modern Trends — Charcoal, Coconut, and Marketing
+# Chapter 25: Modern Trends — Charcoal, Coconut, and Marketing
 
 We've spent the last several chapters exploring botanical remedies with centuries or millennia of traditional use, most of which have been at least partially validated by modern science. Now let's turn to the opposite phenomenon: modern trends that leverage the *aesthetics* of natural health without necessarily delivering the substance.
 

@@ -1,4 +1,4 @@
-# Chapter 23: Oil Pulling — More Interesting Than Expected
+# Chapter 24: Oil Pulling — More Interesting Than Expected
 
 I'll admit it: I was prepared to dismiss this one.
 

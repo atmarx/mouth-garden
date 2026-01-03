@@ -1,4 +1,4 @@
-# Chapter 33: Raising Resilient Teeth
+# Chapter 34: Raising Resilient Teeth
 
 *In which we guide children from first tooth to adulthood, recognizing that the habits of childhood become the dental destiny of a lifetime*
 

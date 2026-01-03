@@ -1,4 +1,4 @@
-# Chapter 11: A Simple Rinse, Deeply Understood
+# Chapter 12: A Simple Rinse, Deeply Understood
 
 Let me tell you about the most underrated oral health intervention in human history: salt water.
 

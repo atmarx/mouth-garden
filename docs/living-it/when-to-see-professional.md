@@ -1,4 +1,4 @@
-# Chapter 34: When to See a Professional
+# Chapter 35: When to See a Professional
 
 ## What Natural Approaches Can't Fix
 
@@ -97,6 +97,18 @@ Here's what I want you to understand: this isn't either/or. The best outcomes co
 **Between dental visits:** This is where prevention happens. The daily rhythms, the pH management, the botanical support, the mechanical disruption of biofilm—all of this maintains the health that professional cleanings help establish.
 
 **Working with your dentist:** Find a professional who respects your interest in ecological approaches. Increasingly, dentists are aware of the microbiome science and are moving beyond the "kill everything" paradigm. A good dentist will partner with you rather than dictate to you.
+
+---
+
+## Special Circumstances Requiring Professional Partnership
+
+Certain life stages require closer professional monitoring, even when nothing seems wrong:
+
+**Pregnancy:** Hormonal changes dramatically affect gum tissue, and periodontal disease is linked to adverse birth outcomes. A dental cleaning and examination during pregnancy is not just safe—it's recommended. See [Chapter 36: Pregnancy and Oral Health](pregnancy-oral-health.md) for details.
+
+**Caring for young children:** Early dental visits establish baseline health and catch problems before they become serious. The first visit should happen by age one or within six months of the first tooth. See [Chapter 34: Children and Resilient Teeth](children-resilient-teeth.md).
+
+**Later years:** Medication-induced dry mouth, root caries, and the challenges of adapting care routines all benefit from professional guidance. If you're managing multiple medications, more frequent professional cleanings may be wise. See [Chapter 37: Oral Health in Later Years](elderly-oral-health.md).
 
 ---
 

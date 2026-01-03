@@ -1,4 +1,4 @@
-# Chapter 16: The Combination Approach
+# Chapter 17: The Combination Approach
 
 We've talked about ingredients. We've talked about formulations. We've talked about mechanical disruption and pressurized delivery. Now let's weave it all together into something coherent—protocols that put theory into practice.
 

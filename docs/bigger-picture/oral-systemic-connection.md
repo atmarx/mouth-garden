@@ -1,4 +1,4 @@
-# Chapter 29: The Oral-Systemic Connection
+# Chapter 30: The Oral-Systemic Connection
 
 For most of medical history, dentistry existed in its own silo. Teeth were teeth, and the rest of medicine happened elsewhere. The mouth was treated as a separate anatomical province, managed by different specialists, often literally in different buildings.
 

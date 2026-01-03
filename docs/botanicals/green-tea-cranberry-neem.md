@@ -1,4 +1,4 @@
-# Chapter 22: The Green Pharmacy — Tea, Cranberry, and Neem
+# Chapter 23: The Green Pharmacy — Tea, Cranberry, and Neem
 
 There's a category of botanical remedies that works through a mechanism so elegant it took your scientists decades to understand it: *anti-adhesion*. Instead of killing bacteria—which, as we've established, often causes collateral damage—these plants simply prevent the problematic organisms from sticking to your teeth in the first place.
 

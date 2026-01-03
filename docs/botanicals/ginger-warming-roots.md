@@ -1,4 +1,4 @@
-# Chapter 18: The Warming Roots — Ginger and Its Kin
+# Chapter 19: The Warming Roots — Ginger and Its Kin
 
 There's a family of plants that humans have reached for, across cultures and centuries, whenever inflammation needed soothing. The Zingiberaceae—the ginger family—and their pungent, warming rhizomes.
 
@@ -159,9 +159,9 @@ In the next chapter, we'll explore another category of botanical allies: the Med
 
 For detailed monographs on the herbs discussed in this chapter, see herbalist Richard Whelan's excellent reference:
 
-- [Ginger](https://www.rjwhelan.co.nz/herbs A-Z/ginger.html) — Comprehensive profile including traditional uses, active constituents, and safety considerations
-- [Turmeric](https://www.rjwhelan.co.nz/herbs A-Z/turmeric.html) — In-depth exploration of curcumin and its therapeutic applications
-- [Cayenne](https://www.rjwhelan.co.nz/herbs A-Z/cayenne.html) — Another warming root with circulatory and anti-inflammatory properties
+- [Ginger](https://www.rjwhelan.co.nz/herbs%20A-Z/ginger.html) — Comprehensive profile including traditional uses, active constituents, and safety considerations
+- [Turmeric](https://www.rjwhelan.co.nz/herbs%20A-Z/turmeric.html) — In-depth exploration of curcumin and its therapeutic applications
+- [Cayenne](https://www.rjwhelan.co.nz/herbs%20A-Z/cayenne.html) — Another warming root with circulatory and anti-inflammatory properties
 
 ---
 

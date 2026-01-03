@@ -1,4 +1,4 @@
-# Chapter 30: Breath and the Social Mouth
+# Chapter 31: Breath and the Social Mouth
 
 Let's talk about something people rarely discuss openly but nearly everyone worries about: bad breath.
 

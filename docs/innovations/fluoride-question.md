@@ -1,4 +1,4 @@
-# Chapter 26: The Fluoride Question
+# Chapter 27: The Fluoride Question
 
 No topic in oral health generates more controversy than fluoride. I've watched the debates rage since Frederick McKay first noticed that children in Colorado Springs had strangely mottled—but remarkably cavity-free—teeth in the early 20th century.[^1] That observation led to the discovery of fluoride's effects, and eventually to one of the most successful public health interventions in human history.
 

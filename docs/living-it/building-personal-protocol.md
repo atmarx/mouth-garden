@@ -1,4 +1,4 @@
-# Chapter 32: Building Your Personal Protocol
+# Chapter 33: Building Your Personal Protocol
 
 Not everyone has the same risk factors, the same resources, or the same lifestyle. A 25-year-old vegetarian with excellent salivary flow needs a different approach than a 60-year-old diabetic on multiple medications that cause dry mouth. One-size-fits-all protocols are convenient but suboptimal.
 
@@ -217,6 +217,18 @@ This is the minimum effective protocol for maintaining already-good oral health.
 **Talk to your doctor about:**
 - Whether any medications could be switched to less xerostomia-causing alternatives
 - Pilocarpine or cevimeline if severe (prescription saliva stimulants)
+
+## Life Stage Considerations
+
+Your protocol may need adjustment based on your life stage. I've dedicated full chapters to the most significant transitions:
+
+- **Pregnant or planning pregnancy?** See [Chapter 36: Pregnancy and Oral Health](pregnancy-oral-health.md) for specific protocols, safety considerations, and why your oral health affects your baby's outcomes.
+
+- **Caring for children?** See [Chapter 34: Children and Resilient Teeth](children-resilient-teeth.md) for age-specific guidance from birth through adolescence.
+
+- **In your later years?** See [Chapter 37: Oral Health in Later Years](elderly-oral-health.md) for adapting to medication effects, dry mouth management, and the truth about root caries.
+
+These aren't just variations on the standard protocols—each life stage has unique physiology, unique risks, and unique opportunities for intervention.
 
 ## Customization by Preference
 

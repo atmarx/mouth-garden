@@ -1,4 +1,4 @@
-# Chapter 19: The Healing Herbs — Sage, Thyme, and Chamomile
+# Chapter 20: The Healing Herbs — Sage, Thyme, and Chamomile
 
 The Mediterranean basin gave humanity many things: democracy, philosophy, olive oil, and a tradition of herbal medicine that we're still learning from. Three herbs in particular have been used for oral health since antiquity, and all three have mechanisms we can now understand.
 
@@ -207,11 +207,11 @@ Sometimes the most sophisticated medicine is also the simplest.
 
 For detailed monographs on the herbs discussed in this chapter, see herbalist Richard Whelan's excellent reference:
 
-- [Sage](https://www.rjwhelan.co.nz/herbs A-Z/sage.html) — Traditional uses, active constituents, and therapeutic applications
-- [Thyme](https://www.rjwhelan.co.nz/herbs A-Z/thyme.html) — In-depth profile of this powerful antimicrobial herb
-- [Chamomile](https://www.rjwhelan.co.nz/herbs A-Z/chamomile.html) — Comprehensive guide to the gentle healer
-- [Rosemary](https://www.rjwhelan.co.nz/herbs A-Z/rosemary.html) — A related Mediterranean herb with similar rosmarinic acid content
-- [Lavender](https://www.rjwhelan.co.nz/herbs A-Z/lavender.html) — Another aromatic herb from the Mediterranean tradition
+- [Sage](https://www.rjwhelan.co.nz/herbs%20A-Z/sage.html) — Traditional uses, active constituents, and therapeutic applications
+- [Thyme](https://www.rjwhelan.co.nz/herbs%20A-Z/thyme.html) — In-depth profile of this powerful antimicrobial herb
+- [Chamomile](https://www.rjwhelan.co.nz/herbs%20A-Z/chamomile.html) — Comprehensive guide to the gentle healer
+- [Rosemary](https://www.rjwhelan.co.nz/herbs%20A-Z/rosemary.html) — A related Mediterranean herb with similar rosmarinic acid content
+- [Lavender](https://www.rjwhelan.co.nz/herbs%20A-Z/lavender.html) — Another aromatic herb from the Mediterranean tradition
 
 ---
 

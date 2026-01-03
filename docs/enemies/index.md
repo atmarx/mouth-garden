@@ -20,7 +20,9 @@ In this section, we'll explore the real enemies:
 
 **Biofilm**—the organized bacterial community we call plaque—is the structure that makes treatment so difficult. Understanding how biofilms form, how they resist our interventions, and why mechanical disruption is essential will inform everything we discuss later about prevention.
 
-These are your real enemies. Not germs in the abstract, not the 700 species living in your mouth, but specific chemical conditions and specific organizational structures that tilt the equilibrium toward destruction.
+**Bruxism**—grinding and clenching—is the enemy that operates on a different axis entirely. It doesn't care about pH or bacteria; it's mechanical destruction, often occurring while you sleep. I've saved it for last because it's the one that makes me saddest: you attacking yourself.
+
+These are your real enemies. Not germs in the abstract, not the 700 species living in your mouth, but specific chemical conditions, specific organizational structures, and specific mechanical forces that tilt the equilibrium toward destruction.
 
 Know them, and you can defeat them.
 

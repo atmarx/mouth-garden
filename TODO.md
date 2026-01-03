@@ -112,7 +112,7 @@ Topics that could expand existing chapters or become new ones:
 
 ## Completed
 
-- [x] Core manuscript (36 chapters + 4 appendices)
+- [x] Core manuscript (37 chapters + 4 appendices)
 - [x] Foreword with CC BY 4.0 license
 - [x] MkDocs website with Material theme
 - [x] Semantic URL structure
@@ -126,9 +126,10 @@ Topics that could expand existing chapters or become new ones:
 - [x] Anchor links / deep linking to sections
 - [x] Footnote citations throughout all chapters (~60 footnotes)
 - [x] Image placeholders with AI generation prompts (7 diagrams)
-- [x] Pregnancy oral health chapter (Ch. 35) with breastfeeding and midwifery sections
-- [x] Elderly oral health chapter (Ch. 36) covering dry mouth, root caries, medications
+- [x] Pregnancy oral health chapter (Ch. 36) with breastfeeding and midwifery sections
+- [x] Elderly oral health chapter (Ch. 37) covering dry mouth, root caries, medications
 - [x] Expanded children's chapter with microbiome colonization, special needs, sports/mouthguards
+- [x] Bruxism chapter (Ch. 11) covering grinding, clenching, night guards, and natural approaches
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 35: Growing Teeth for Two — Pregnancy and Your Mouth
+# Chapter 36: Growing Teeth for Two — Pregnancy and Your Mouth
 
 *In which we explore the profound oral changes of pregnancy, debunk the myth that babies steal calcium from teeth, and discover why those nine months are both vulnerable and vitally important*
 

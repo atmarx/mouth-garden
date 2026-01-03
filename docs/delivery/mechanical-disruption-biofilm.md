@@ -1,4 +1,4 @@
-# Chapter 14: Mechanical Disruption
+# Chapter 15: Mechanical Disruption
 
 Before any rinse can work—before essential oils can contact bacteria, before baking soda can buffer pH, before salt can create osmotic stress—something has to happen first. The biofilm has to be disrupted.
 

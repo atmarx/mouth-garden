@@ -1,4 +1,4 @@
-# Chapter 20: The Sweet Exceptions — Licorice and Manuka Honey
+# Chapter 21: The Sweet Exceptions — Licorice and Manuka Honey
 
 I need to tell you about two remedies that seem to violate everything I've said about sugar and oral health. Both are sweet. Both have been used for healing since antiquity. And both, paradoxically, may actually protect teeth rather than harm them.
 

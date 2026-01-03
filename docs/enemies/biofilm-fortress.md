@@ -225,7 +225,7 @@ Part III has explained what you're actually defending against: acid (especially 
 
 [^2]: Kolenbrander, P. E., et al. (2010). Oral multispecies biofilm development and the key role of cell–cell distance. *Nature Reviews Microbiology*, 8(7), 471-480.
 
-[^3]: Stewart, P. S., & Costerton, J. W. (2001). Antibiotic resistance of bacteria in biofilms. *The Lactyet*, 358(9276), 135-138.
+[^3]: Stewart, P. S., & Costerton, J. W. (2001). Antibiotic resistance of bacteria in biofilms. *The Lancet*, 358(9276), 135-138.
 
 [^4]: Cobb, C. M., et al. (1988). Ultrastructural examination of human periodontal pockets following the use of an oral irrigation device in vivo. *Journal of Periodontology*, 59(3), 155-163.
 
