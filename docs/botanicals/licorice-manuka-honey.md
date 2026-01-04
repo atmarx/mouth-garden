@@ -1,5 +1,7 @@
 # Chapter 21: The Sweet Exceptions — Licorice and Manuka Honey
 
+![The Tooth Fairy drizzling golden Manuka honey with licorice root nearby.](../images/tooth-fairy-honey.webp){ width=400 align=right }
+
 I need to tell you about two remedies that seem to violate everything I've said about sugar and oral health. Both are sweet. Both have been used for healing since antiquity. And both, paradoxically, may actually protect teeth rather than harm them.
 
 The key, as always, is in the chemistry.

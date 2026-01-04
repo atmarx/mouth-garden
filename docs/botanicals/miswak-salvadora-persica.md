@@ -1,5 +1,7 @@
 # Chapter 18: The Miswak Tradition
 
+![The Tooth Fairy tending to a glowing Salvadora persica tree.](../images/tooth-fairy-miswak-tree.webp){ width=400 align=right }
+
 Of all the botanical oral health traditions I've watched humans develop, none is more elegant than the miswak.
 
 It's a twig. That's all it is—a twig from a particular tree, chewed and frayed at one end to create a brush. No manufacturing required. No supply chain. No packaging. Just a person, a tree, and seven thousand years of accumulated wisdom.

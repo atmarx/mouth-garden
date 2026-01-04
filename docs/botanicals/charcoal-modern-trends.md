@@ -1,5 +1,7 @@
 # Chapter 25: Modern Trends — Charcoal, Coconut, and Marketing
 
+![The Tooth Fairy holding charcoal powder with a skeptical expression.](../images/tooth-fairy-charcoal.webp){ width=400 align=right }
+
 We've spent the last several chapters exploring botanical remedies with centuries or millennia of traditional use, most of which have been at least partially validated by modern science. Now let's turn to the opposite phenomenon: modern trends that leverage the *aesthetics* of natural health without necessarily delivering the substance.
 
 I've watched humans fall for marketing for as long as there has been marketing. But the current era—with its Instagram influencers, "clean beauty" movements, and algorithmically-amplified trends—has created a particularly fertile ground for products that promise natural solutions while often delivering confusion, wasted money, or occasionally actual harm.

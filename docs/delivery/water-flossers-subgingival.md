@@ -1,5 +1,7 @@
 # Chapter 16: Water Flossers and Subgingival Reach
 
+![The Tooth Fairy curiously examining a modern water flosser.](../images/tooth-fairy-waterflosser.webp){ width=400 align=right }
+
 The water flosser—branded as Waterpik by the company that pioneered the category—is a fascinating device. It's not a replacement for brushing. It's not exactly a replacement for flossing, though it comes closer. What it is, uniquely, is a delivery system.
 
 It combines mechanical biofilm disruption with the ability to deliver whatever solution you put in the reservoir to places that passive rinsing cannot reach. Understanding how it works will help you use it more effectively—and help you understand why it pairs so well with the ecological rinses we've been discussing.

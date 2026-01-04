@@ -24,6 +24,18 @@ When you rinse with salt water, several things happen:
 
 Here's the crucial point: *this effect is temporary and reversible*. Once you spit out the rinse and saliva dilutes the remaining salt back to normal concentrations, the bacteria that were stressed can recover. You haven't committed genocide in your oral ecosystem; you've just made life temporarily uncomfortable for everyone.
 
+### How Fast Does This Actually Work?
+
+You might wonder: does a 30-second swish actually accomplish anything, or do you need to gargle for ten minutes?
+
+Good news. Osmosis is fast—remarkably fast. Water begins crossing cell membranes within *seconds* of exposure to a hypertonic solution. The moment salt water contacts bacterial cells, water starts moving out along the concentration gradient. Bacteria experience the stress almost immediately: cell turgor pressure drops, metabolic processes slow.
+
+Now, bacteria are clever little survivors. Given enough time, they mount adaptive responses—activating stress genes, accumulating protective solutes to restore their internal balance. This takes minutes to fully kick in. A 30-60 second rinse is long enough to impose the osmotic stress but short enough that bacteria can't complete their adaptation before you spit the solution out.
+
+For swollen gum tissue, the same principle applies. Fluid extraction begins immediately, but the cumulative effect of drawing interstitial fluid out of inflamed tissue takes the full swishing duration to become meaningful.
+
+This is why *frequency* matters more than *duration*. Multiple brief rinses throughout the day create repeated stress cycles that bacteria can't settle into. You're not giving them time to adapt—you're perpetually catching them off guard. Three 30-second rinses will do more than one 90-second marathon session.
+
 This is fundamentally different from antiseptic mouthwashes, which cause irreversible cell death through membrane destruction or protein denaturation. The salt rinse is a gentle reset, not a massacre.
 
 **Wound healing support.** Salt water has been used for wound cleaning since ancient times, and for good reason. It's isotonic or slightly hypertonic (depending on concentration), it doesn't damage healthy tissue at reasonable concentrations, and it helps flush debris from wounds. Post-extraction salt rinses are standard of care in dentistry—not because salt is magical, but because it's effective and gentle.

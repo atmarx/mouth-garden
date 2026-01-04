@@ -1,5 +1,7 @@
 # Chapter 23: The Green Pharmacy — Tea, Cranberry, and Neem
 
+![The Tooth Fairy pouring green tea in a peaceful garden.](../images/tooth-fairy-tea.webp){ width=400 align=right }
+
 There's a category of botanical remedies that works through a mechanism so elegant it took your scientists decades to understand it: *anti-adhesion*. Instead of killing bacteria—which, as we've established, often causes collateral damage—these plants simply prevent the problematic organisms from sticking to your teeth in the first place.
 
 Think of it like this: imagine you're trying to defend a castle, and instead of fighting every invader who approaches, you simply made the walls too slippery to climb. No battle required. No casualties on either side. The invaders just... slide off.
@@ -129,6 +131,8 @@ The cranberry story illustrates a recurring theme: often, humans take something 
 ---
 
 ## Neem: The Indian Toothbrush Tree
+
+![The Tooth Fairy holding a neem branch with its distinctive leaves.](../images/tooth-fairy-neem.webp){ width=400 align=right }
 
 If the miswak (*Salvadora persica*) is the chewing stick of the Middle East and Africa, *Azadirachta indica*—the neem tree—plays a similar role across South Asia. I've watched millions of people chew neem twigs for oral hygiene, and the tradition stretches back to Vedic times, at least 4,000 years.
 

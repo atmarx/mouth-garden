@@ -1,5 +1,7 @@
 # Chapter 24: Oil Pulling — More Interesting Than Expected
 
+![The Tooth Fairy demonstrating oil pulling with playfully puffed cheeks.](../images/tooth-fairy-oilpulling.webp){ width=400 align=right }
+
 I'll admit it: I was prepared to dismiss this one.
 
 Oil pulling—swishing vegetable oil in your mouth for 15-20 minutes—seemed like the kind of practice that survives on tradition and placebo rather than mechanism. It sounded like something you'd find in the dustier corners of wellness blogs, sandwiched between crystal healing and homeopathy.

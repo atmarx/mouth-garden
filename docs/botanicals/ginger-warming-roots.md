@@ -1,5 +1,7 @@
 # Chapter 19: The Warming Roots — Ginger and Its Kin
 
+![The Tooth Fairy holding fresh ginger root with a cup of steaming ginger tea.](../images/tooth-fairy-ginger.webp){ width=400 align=right }
+
 There's a family of plants that humans have reached for, across cultures and centuries, whenever inflammation needed soothing. The Zingiberaceae—the ginger family—and their pungent, warming rhizomes.
 
 These aren't subtle remedies. When you bite into fresh ginger, you *know* something is happening. The heat, the bite, the peculiar sharpness that's nothing like chili peppers—it announces itself. And that announcement is the chemistry at work.
