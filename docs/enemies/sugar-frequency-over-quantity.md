@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy, exhausted by the endless parade of sweets.](../images/tooth-fairy-candy.webp){ width=400 align=right }
+
 "Cut back on sugar."
 
 You've heard this advice your entire life. Dentists say it. Parents say it. Public health campaigns say it. And it's not wrong, exactly. Sugar does contribute to tooth decay. Reducing sugar intake is generally good for oral health.

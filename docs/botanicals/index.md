@@ -1,5 +1,7 @@
 # Part VI: Botanicals and Traditional Wisdom — What the Tooth Fairy Has Been Trying to Tell You
 
+![The Tooth Fairy in her garden.](../images/tooth-fairy-garden.webp){ width=500 align=right }
+
 Finally. *Finally* we get to talk about the plants.
 
 This is the work closest to my heart—the knowledge I tend in my own garden, the wisdom I've been trying to pass down since before your ancestors had names for these plants. When I'm not making midnight rounds collecting what remains of human negligence, this is where you'll find me: among the herbs, studying their chemistry, preparing their remedies.

@@ -10,6 +10,8 @@ I find this technology genuinely interesting. It represents a fundamentally diff
 
 ## The Concept: Biomimetic Remineralization
 
+![The Tooth Fairy admiring glowing nano-hydroxyapatite crystals.](../images/tooth-fairy-crystals.webp){ width=400 align=right }
+
 **Biomimetic** means "mimicking biology." The idea behind n-HAp is straightforward:
 
 1. Enamel is 97% hydroxyapatite

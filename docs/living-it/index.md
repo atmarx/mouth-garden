@@ -24,6 +24,7 @@ In this section, you'll find guidance tailored to the moments that matter most:
 - **[Children and Resilient Teeth](children-resilient-teeth.md)** — Building foundations from birth through adolescence, including the crucial "window of infectivity" and how to win the brushing battle
 - **[Pregnancy and Oral Health](pregnancy-oral-health.md)** — What expectant mothers actually need to know (spoiler: your baby isn't stealing your calcium), plus the connection between oral health and birth outcomes
 - **[Oral Health in Later Years](elderly-oral-health.md)** — Adapting to medication effects, root caries, and the truth about dentures—it's never too late to keep what you have
+- **[The Sweetener Spectrum](sweeteners-guide.md)** — Navigating sugar alternatives from xylitol to allulose—what's safe for your teeth, what's not, and why "sugar-free" doesn't always mean what you think
 
 These chapters draw on both the science we've explored and the traditional wisdom I've gathered over centuries. The midwives knew things. The elders understood patterns. I've tried to capture what works.
 

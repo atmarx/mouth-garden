@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy bridging a warzone and a peaceful garden.](../images/tooth-fairy-paradigm.webp){ width=400 align=right }
+
 Something is changing in how researchers think about oral health, and it's profound enough to deserve the word "paradigm shift."
 
 For most of the past century, the dominant metaphor was warfare: pathogens attack, defenses resist, antimicrobials destroy. Health was the absence of infection, achieved through hygiene and chemical intervention.

@@ -14,6 +14,8 @@ I've watched humans throughout this long journey, and what strikes me most is ho
 
 ## The Ancient Wisdom
 
+![The Tooth Fairy examining miswak sticks in an ancient marketplace.](../images/tooth-fairy-miswak.webp){ width=400 align=right }
+
 The earliest recorded oral hygiene practices come from Babylonian texts around 3500 BCE. The Babylonians used chewing sticks called "miswak" or "siwak"—the same practice that continues today in much of the Middle East and Africa, using twigs from the Salvadora persica tree.
 
 The **ancient Egyptians** (around 5000 BCE) developed a tooth powder made from myrrh, powdered ox hoof, pumice, burned eggshells, and ashes.[^2] Abrasive, yes, but functional. They also used chewing sticks and are credited with the earliest known reference to a dental practitioner: Hesy-Ra, described as "the greatest of those who deal with teeth."

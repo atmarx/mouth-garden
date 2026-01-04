@@ -1,5 +1,7 @@
 # Chapter 31: Breath and the Social Mouth
 
+![The Tooth Fairy checking a child's breath with theatrical concern.](../images/tooth-fairy-breath.webp){ width=400 align=right }
+
 Let's talk about something people rarely discuss openly but nearly everyone worries about: bad breath.
 
 I've watched humans invent mouthwash, chew herbs, avoid garlic, and perform all manner of anxious breath-checking maneuvers in mirrors and cupped hands. The fear of halitosis is ancient and universal. And while it might seem like a vanity concern compared to caries and periodontal disease, breath affects how people navigate social interactions, intimate relationships, and professional life.

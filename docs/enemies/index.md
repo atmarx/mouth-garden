@@ -2,6 +2,8 @@
 
 ## Understanding What Actually Causes Damage
 
+![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy-scolding.webp){ width=400 align=right }
+
 ---
 
 *In which the Tooth Fairy clarifies what you should actually be worried about, explains why some things you've feared aren't so bad while others you've ignored are worse than you thought, and reveals the fortress that makes bacteria so hard to dislodge*

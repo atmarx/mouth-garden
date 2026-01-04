@@ -1,5 +1,7 @@
 # Chapter 14: Formulating Your Own
 
+![The Tooth Fairy in her apothecary, mixing ingredients with measuring tools.](../images/tooth-fairy-formulating.webp){ width=400 align=right }
+
 Now we get practical. I've given you the chemistry; I've explained the mechanisms; I've warned you about what doesn't work. In this chapter, I'm going to give you actual recipes—formulations you can make tonight with ingredients you probably already have.
 
 These aren't proprietary secrets. They're combinations of simple, evidence-based ingredients, optimized for different situations. Think of them as starting points that you can adjust based on your own needs and preferences.

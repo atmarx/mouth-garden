@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy collecting morning dew.](../images/tooth-fairy-dew.webp){ width=400 align=right }
+
 Let me tell you about the most underappreciated fluid in your body.
 
 You produce about a liter of it every day.[^1] You barely notice it unless something goes wrong. You probably think of it primarily as "spit"—something that helps you swallow food, something that you try not to let escape when you're talking, something that occasionally pools embarrassingly on your pillow at night.

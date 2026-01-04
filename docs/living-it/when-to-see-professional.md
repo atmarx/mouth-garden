@@ -2,6 +2,8 @@
 
 ## What Natural Approaches Can't Fix
 
+![The Tooth Fairy shaking hands with a friendly dentist.](../images/tooth-fairy-dentist.webp){ width=400 align=right }
+
 I need to be honest with you now, and this honesty might seem like a contradiction after everything I've told you.
 
 There are things I cannot help you with. There are situations where all the salt rinses and sage tea and careful ecological management in the world will not be enough. There are moments when you need to stop reading this book and go see a dentist.

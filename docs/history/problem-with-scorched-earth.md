@@ -124,6 +124,8 @@ The pattern here is that antiseptics are useful for specific therapeutic situati
 
 ## The Marketing Reality
 
+![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy-scolding.webp){ width=400 align=right }
+
 Why do people use antiseptic mouthwash daily despite the limited evidence of benefit and the emerging evidence of harm?
 
 Partly because of marketing. Listerine's famous campaigns—"Kills Germs That Cause Bad Breath," "Kills 99.9% of Germs"—have been extraordinarily successful at equating antibacterial action with oral health. The burning sensation, which might otherwise be perceived as irritation, has been reframed as evidence that "it's working."

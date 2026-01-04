@@ -36,7 +36,7 @@ Let's talk about the main mechanical tools and what they actually accomplish.
 
 ## Brushing: The Workhorse
 
-![Toothbrushes in a jar. Photo by <a href='https://unsplash.com/@superkitina'>Superkitina</a> on <a href='https://unsplash.com/photos/rCT928GIboM'>Unsplash</a>](../images/toothbrushes.webp){ align=right width=200 }
+![Toothbrushes in a jar. Photo by <a href='https://unsplash.com/@superkitina'>Superkitina</a> on <a href='https://unsplash.com/photos/rCT928GIboM'>Unsplash</a>](../images/toothbrushes.webp){ align=right width=400 }
 
 The toothbrush—whether manual or powered—is still the foundation of mechanical biofilm disruption. Here's what actually matters:
 

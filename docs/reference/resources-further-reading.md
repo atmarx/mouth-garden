@@ -365,9 +365,3 @@ The resources listed here are starting points, not endings. The real learning ha
 Your teeth—and the ecosystem that surrounds them—are worth that effort.
 
 ---
-
-*Now go forth and keep those teeth where they belong: in your mouth, not under your pillow.*
-
-*— The Tooth Fairy*
-
----

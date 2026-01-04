@@ -207,6 +207,7 @@ nav:
     - "35. When to See a Professional": living-it/when-to-see-professional.md
     - "36. Pregnancy & Oral Health": living-it/pregnancy-oral-health.md
     - "37. Oral Health in Later Years": living-it/elderly-oral-health.md
+    - "38. The Sweetener Spectrum": living-it/sweeteners-guide.md
 
   - "Reference":
     - reference/index.md
@@ -214,3 +215,5 @@ nav:
     - "B. Ingredient Glossary": reference/glossary-ingredients.md
     - "C. Evidence Hierarchy": reference/evidence-hierarchy.md
     - "D. Resources": reference/resources-further-reading.md
+
+  - Farewell: farewell.md

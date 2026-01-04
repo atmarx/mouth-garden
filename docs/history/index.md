@@ -2,6 +2,8 @@
 
 ## A Brief History of Getting It Wrong
 
+![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy-scolding.webp){ width=400 align=right }
+
 ---
 
 *In which the Tooth Fairy recounts the well-intentioned but ultimately misguided path that led humanity from ancient wisdom to modern antiseptic warfare, and explains why the pendulum is finally beginning to swing back*

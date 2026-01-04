@@ -1,5 +1,7 @@
 # Chapter 12: A Simple Rinse, Deeply Understood
 
+![The Tooth Fairy appreciating crystalline salt in the morning light.](../images/tooth-fairy-salt.webp){ width=400 align=right }
+
 Let me tell you about the most underrated oral health intervention in human history: salt water.
 
 I know. It sounds too simple. It sounds like something your grandmother would suggest right before recommending chicken soup for a cold. But here's the thing about grandmothers—they weren't idiots. They were repositories of accumulated practical wisdom, tested across generations, refined by observation. And when it comes to oral health, that accumulated wisdom converged on a few simple ingredients that actually work.

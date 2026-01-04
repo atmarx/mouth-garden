@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy teaching children how to brush.](../images/tooth-fairy-teaching.webp){ width=400 align=right }
+
 Children occupy a special place in my work. Their baby teeth are temporary—I'll collect them eventually regardless—but those primary teeth matter far more than people realize. And their permanent teeth, the ones that need to last 70+ years, are forming and erupting during a critical window when habits get established and enamel is most vulnerable.
 
 Get childhood oral care right, and you set a human up for a lifetime of healthy teeth. Get it wrong, and I'll be making many more visits than either of us would prefer.
@@ -470,6 +472,8 @@ Know what constitutes a dental emergency:
 - **Bleeding that won't stop:** After injury or extraction, sustained bleeding needs attention
 
 ## What I Wish Every Parent Knew
+
+![The Tooth Fairy giving a warm hug to a young child.](../images/tooth-fairy-hugs.webp){ width=400 align=right }
 
 After watching countless children's teeth, here's what matters most:
 
