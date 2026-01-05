@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy does not love the scorched earth approach!](../images/tooth-fairy/tank.webp){ width=400 align=right }
+
 I want to be careful here, because I'm about to criticize products that millions of people use daily, that are recommended by many dental professionals, and that do have some legitimate therapeutic applications. I'm not trying to tell you that everyone who has ever used Listerine has been poisoning themselves. That would be alarmist and inaccurate.
 
 But I am going to present evidence that regular, long-term use of antiseptic mouthwashes for daily maintenance—as opposed to therapeutic use for specific conditions—may not be doing what you think it's doing. And it may be doing some things you would never have expected.
@@ -124,7 +126,7 @@ The pattern here is that antiseptics are useful for specific therapeutic situati
 
 ## The Marketing Reality
 
-![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy/scolding.webp){ width=400 align=right }
+![The Tooth Fairy deals with a snake oil salesman.](../images/tooth-fairy/scolding.webp){ width=400 align=right }
 
 Why do people use antiseptic mouthwash daily despite the limited evidence of benefit and the emerging evidence of harm?
 
