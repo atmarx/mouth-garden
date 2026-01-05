@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this project! This document provi
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+By contributing, you agree that your contributions will be licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
 ## Ways to Contribute
 

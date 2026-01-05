@@ -14,7 +14,7 @@ I've watched humans throughout this long journey, and what strikes me most is ho
 
 ## The Ancient Wisdom
 
-![The Tooth Fairy examining miswak sticks in an ancient marketplace.](../images/tooth-fairy-miswak.webp){ width=400 align=right }
+![The Tooth Fairy examining miswak sticks in an ancient marketplace.](../images/tooth-fairy/miswak.webp){ width=400 align=right }
 
 The earliest recorded oral hygiene practices come from Babylonian texts around 3500 BCE. The Babylonians used chewing sticks called "miswak" or "siwak"—the same practice that continues today in much of the Middle East and Africa, using twigs from the Salvadora persica tree.
 

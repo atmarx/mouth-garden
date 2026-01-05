@@ -1,6 +1,6 @@
 # Chapter 14: Formulating Your Own
 
-![The Tooth Fairy in her apothecary, mixing ingredients with measuring tools.](../images/tooth-fairy-formulating.webp){ width=400 align=right }
+![The Tooth Fairy in her apothecary, mixing ingredients with measuring tools.](../images/tooth-fairy/formulating.webp){ width=400 align=right }
 
 Now we get practical. I've given you the chemistry; I've explained the mechanisms; I've warned you about what doesn't work. In this chapter, I'm going to give you actual recipes—formulations you can make tonight with ingredients you probably already have.
 
@@ -102,6 +102,8 @@ The salt draws fluid out of swollen tissue. The sage contains anti-inflammatory 
 **Note:** If you're post-surgical, check with your dentist about when to start rinsing. Typically, gentle salt rinses can begin 24 hours after extraction, but follow your provider's specific instructions.
 
 ## The Antimicrobial Boost
+
+![The Tooth Fairy adding herbs and flowers to a concoction at her outdoor table.](../images/tooth-fairy/making-potion.webp){ width=400 align=right }
 
 When you need something stronger than the basic rinse—perhaps you're fighting early gingivitis or just want extra antimicrobial action—this adds essential oils to the mix.
 

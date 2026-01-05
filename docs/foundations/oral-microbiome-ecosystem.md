@@ -16,7 +16,7 @@ This is the ecological view, and understanding it changes everything.
 
 ## The Oral Microbiome
 
-![The Tooth Fairy examining friendly bacteria through an ornate magnifying glass.](../images/tooth-fairy-microbiome.webp){ width=400 align=right }
+![The Tooth Fairy examining friendly bacteria through an ornate magnifying glass.](../images/tooth-fairy/microbiome.webp){ width=400 align=right }
 
 The community of microorganisms living in your mouth has a name: the **oral microbiome**. And it's astonishingly complex.
 

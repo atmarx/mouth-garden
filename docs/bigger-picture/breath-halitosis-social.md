@@ -1,6 +1,6 @@
 # Chapter 31: Breath and the Social Mouth
 
-![The Tooth Fairy checking a child's breath with theatrical concern.](../images/tooth-fairy-breath.webp){ width=400 align=right }
+![The Tooth Fairy checking a child's breath with theatrical concern.](../images/tooth-fairy/breath.webp){ width=400 align=right }
 
 Let's talk about something people rarely discuss openly but nearly everyone worries about: bad breath.
 

@@ -1,6 +1,6 @@
 # Chapter 24: Oil Pulling — More Interesting Than Expected
 
-![The Tooth Fairy demonstrating oil pulling with playfully puffed cheeks.](../images/tooth-fairy-oilpulling.webp){ width=400 align=right }
+![The Tooth Fairy demonstrating oil pulling with playfully puffed cheeks.](../images/tooth-fairy/oilpulling.webp){ width=400 align=right }
 
 I'll admit it: I was prepared to dismiss this one.
 

@@ -1,6 +1,6 @@
 # Part VI: Botanicals and Traditional Wisdom — What the Tooth Fairy Has Been Trying to Tell You
 
-![The Tooth Fairy in her garden.](../images/tooth-fairy-garden.webp){ width=500 align=right }
+![The Tooth Fairy in her garden.](../images/tooth-fairy/garden.webp){ width=500 align=right }
 
 Finally. *Finally* we get to talk about the plants.
 
@@ -21,5 +21,7 @@ Some of these remedies have robust clinical trial support. Some have strong mech
 And I'll share some of my favorites—the plants that I've watched help humans across the centuries, the ones that I've been trying to whisper to you through intuition and inherited wisdom.
 
 The plants have been waiting. Let's introduce you properly.
+
+![The Tooth Fairy watering her garden.](../images/tooth-fairy/watering-garden.webp){ width=400 align=right }
 
 ---

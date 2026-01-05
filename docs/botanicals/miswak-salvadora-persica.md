@@ -1,6 +1,6 @@
 # Chapter 18: The Miswak Tradition
 
-![The Tooth Fairy tending to a glowing Salvadora persica tree.](../images/tooth-fairy-miswak-tree.webp){ width=400 align=right }
+![The Tooth Fairy tending to a glowing Salvadora persica tree.](../images/tooth-fairy/miswak-tree.webp){ width=400 align=right }
 
 Of all the botanical oral health traditions I've watched humans develop, none is more elegant than the miswak.
 

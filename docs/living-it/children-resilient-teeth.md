@@ -4,7 +4,7 @@
 
 ---
 
-![The Tooth Fairy teaching children how to brush.](../images/tooth-fairy-teaching.webp){ width=400 align=right }
+![The Tooth Fairy teaching children how to brush.](../images/tooth-fairy/teaching.webp){ width=400 align=right }
 
 Children occupy a special place in my work. Their baby teeth are temporary—I'll collect them eventually regardless—but those primary teeth matter far more than people realize. And their permanent teeth, the ones that need to last 70+ years, are forming and erupting during a critical window when habits get established and enamel is most vulnerable.
 
@@ -121,7 +121,7 @@ For teething comfort:
 
 ### Toddlers (1-3 years)
 
-![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy-mom-toddler.webp){ width=400 align=right }
+![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy/mom-toddler.webp){ width=400 align=right }
 
 This is the window of infectivity—the critical period when *S. mutans* typically colonizes. It's also the age when habits start forming and battles over brushing begin.
 
@@ -199,7 +199,7 @@ Non-nutritive sucking is normal and typically harmless before age 3-4. After tha
 
 ### School Age (6-12 years)
 
-![Child smiling. Photo by <a href='https://unsplash.com/@amanda_sofia_'>Amanda Sofia Pellenz</a> on <a href='https://unsplash.com/photos/YuidWzM37C0'>Unsplash</a>](../images/child-smiling.webp){ align=right width=200 }
+![Child smiling. Photo by <a href='https://unsplash.com/@amanda_sofia_'>Amanda Sofia Pellenz</a> on <a href='https://unsplash.com/photos/YuidWzM37C0'>Unsplash</a>](../images/unsplash/child-smiling.webp){ align=right width=200 }
 
 **Brushing:**
 
@@ -384,7 +384,7 @@ Young children often swallow toothpaste instead of spitting it. This is why:
 
 **The bedtime bottle disaster:**
 
-![Child asleep in bed. Photo by <a href='https://unsplash.com/@sepro'>Richard R</a> on <a href='https://unsplash.com/photos/i2gwG2UkQqs'>Unsplash</a>](../images/child-asleep.webp){ align=right width=200 }
+![Child asleep in bed. Photo by <a href='https://unsplash.com/@sepro'>Richard R</a> on <a href='https://unsplash.com/photos/i2gwG2UkQqs'>Unsplash</a>](../images/unsplash/child-asleep.webp){ align=right width=200 }
 
 - Putting a child to bed with a bottle of milk or juice is extremely cariogenic
 - The liquid pools around teeth while saliva flow is reduced
@@ -475,7 +475,7 @@ Know what constitutes a dental emergency:
 
 ## What I Wish Every Parent Knew
 
-![The Tooth Fairy giving a warm hug to a young child.](../images/tooth-fairy-hugs.webp){ width=400 align=right }
+![The Tooth Fairy giving a warm hug to a young child.](../images/tooth-fairy/hugs.webp){ width=400 align=right }
 
 After watching countless children's teeth, here's what matters most:
 

@@ -1,6 +1,6 @@
 # Chapter 12: A Simple Rinse, Deeply Understood
 
-![The Tooth Fairy appreciating crystalline salt in the morning light.](../images/tooth-fairy-salt.webp){ width=400 align=right }
+![The Tooth Fairy appreciating crystalline salt in the morning light.](../images/tooth-fairy/salt.webp){ width=400 align=right }
 
 Let me tell you about the most underrated oral health intervention in human history: salt water.
 

@@ -1,6 +1,6 @@
 # Chapter 20: The Healing Herbs — Sage, Thyme, and Chamomile
 
-![The Tooth Fairy surrounded by drying bundles of sage, thyme, and chamomile.](../images/tooth-fairy-herbs.webp){ width=400 align=right }
+![The Tooth Fairy surrounded by drying bundles of sage, thyme, and chamomile.](../images/tooth-fairy/herbs.webp){ width=400 align=right }
 
 The Mediterranean basin gave humanity many things: democracy, philosophy, olive oil, and a tradition of herbal medicine that we're still learning from. Three herbs in particular have been used for oral health since antiquity, and all three have mechanisms we can now understand.
 

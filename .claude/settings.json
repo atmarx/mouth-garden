@@ -37,6 +37,6 @@
     "Edit docs/ files directly - this is the source of truth",
     "After adding chapters, update mkdocs.yml navigation",
     "The foreword is in human voice; everything else is Tooth Fairy voice",
-    "License: CC BY 4.0"
+    "License: CC BY-NC 4.0"
   ]
 }

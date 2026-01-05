@@ -4,7 +4,7 @@
 
 ---
 
-![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy-mom-toddler.webp){ width=400 align=right }
+![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy/mom-toddler.webp){ width=400 align=right }
 
 I've watched women grow babies since before your species had dentists. I've seen the same patterns play out across millennia, across cultures, across continents: pregnancy changes mouths in ways that catch women off guard, and the advice they receive—when they receive any at all—is often incomplete or simply wrong.
 
@@ -107,7 +107,7 @@ Some women experience xerostomia (dry mouth) during pregnancy, either from hormo
 
 ## The Connection to Birth Outcomes
 
-![The Tooth Fairy listening tenderly to an expectant mother's belly.](../images/tooth-fairy-pregnant.webp){ width=400 align=right }
+![The Tooth Fairy listening tenderly to an expectant mother's belly.](../images/tooth-fairy/pregnant.webp){ width=400 align=right }
 
 I must tell you something sobering, because it matters for more than just your teeth.
 

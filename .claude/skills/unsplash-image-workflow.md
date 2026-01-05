@@ -12,7 +12,7 @@ Use this skill when you need to:
 ## Required Inputs
 
 1. **Unsplash photo URL(s)** - e.g., `https://unsplash.com/photos/[slug]-[photo_id]`
-2. **Target location** - Where to place images (e.g., `docs/images/`)
+2. **Target location** - Where to place images (default: `docs/images/unsplash/`)
 3. **Placement context** - Which documents/chapters to add images to
 
 ## Workflow Steps
@@ -90,7 +90,7 @@ ls -la *.webp  # Verify results
 Insert images with attribution embedded in the alt text (for GLightbox caption display):
 
 ```markdown
-![Description. Photo by <a href='https://unsplash.com/@username'>Name</a> on <a href='https://unsplash.com/photos/photo_id'>Unsplash</a>](../images/filename.webp){ align=right width=200 }
+![Description. Photo by <a href='https://unsplash.com/@username'>Name</a> on <a href='https://unsplash.com/photos/photo_id'>Unsplash</a>](../images/unsplash/filename.webp){ align=right width=200 }
 ```
 
 ## Attribution Format

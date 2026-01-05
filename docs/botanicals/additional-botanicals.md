@@ -1,6 +1,6 @@
 # Additional Botanicals Worth Exploring
 
-![The Tooth Fairy applying clove oil with careful concentration.](../images/tooth-fairy-clove.webp){ width=400 align=right }
+![The Tooth Fairy applying clove oil with careful concentration.](../images/tooth-fairy/clove.webp){ width=400 align=right }
 
 The chapters in this section have covered the major botanical players in oral health—the herbs and resins with the strongest evidence and longest traditions of use. But the plant kingdom is vast, and there are other botanicals that warrant attention for those who wish to explore further.
 
@@ -111,7 +111,7 @@ Yarrow's combination of astringent, antimicrobial, and anti-inflammatory actions
 
 ## Soothing and Demulcent Herbs
 
-![The Tooth Fairy slicing open an aloe vera leaf, revealing healing gel.](../images/tooth-fairy-aloe.webp){ width=400 align=right }
+![The Tooth Fairy slicing open an aloe vera leaf, revealing healing gel.](../images/tooth-fairy/aloe.webp){ width=400 align=right }
 
 ### Marshmallow (*Althaea officinalis*)
 

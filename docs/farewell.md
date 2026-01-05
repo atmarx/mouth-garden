@@ -4,7 +4,7 @@
 
 ---
 
-![The Tooth Fairy recharging under the moonlight.](./images/tooth-fairy-moonlight.webp){ width=400 }
+![The Tooth Fairy recharging under the moonlight.](./images/tooth-fairy/moonlight.webp){ width=400 }
 
 *Don't ask. Even ancient beings have their rituals.*
 

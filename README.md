@@ -3,7 +3,7 @@
 **What the Tooth Fairy Has Been Trying to Tell You**
 *An Ecological Approach to Oral Health*
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
@@ -72,9 +72,9 @@ Individual chapters have descriptive slugs like `/botanicals/miswak-salvadora-pe
 
 ## License
 
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-You are free to share and adapt this material for any purpose, including commercially, as long as you provide appropriate attribution.
+You are free to share and adapt this material for non-commercial purposes, as long as you provide appropriate attribution.
 
 ## Acknowledgments
 

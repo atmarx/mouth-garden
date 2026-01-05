@@ -1,6 +1,6 @@
 # Chapter 30: The Oral-Systemic Connection
 
-![The Tooth Fairy holding a heart, showing the oral-systemic connection.](../images/tooth-fairy-heart.webp){ width=400 align=right }
+![The Tooth Fairy holding a heart, showing the oral-systemic connection.](../images/tooth-fairy/heart.webp){ width=400 align=right }
 
 For most of medical history, dentistry existed in its own silo. Teeth were teeth, and the rest of medicine happened elsewhere. The mouth was treated as a separate anatomical province, managed by different specialists, often literally in different buildings.
 

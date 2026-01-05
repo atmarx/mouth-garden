@@ -10,7 +10,7 @@ This file provides context for Claude (or any AI assistant) working on this proj
 
 - **Website:** [keepyourteeth.org](https://keepyourteeth.org)
 - **Repository:** [github.com/atmarx/keep-your-teeth](https://github.com/atmarx/keep-your-teeth)
-- **License:** CC BY 4.0
+- **License:** CC BY-NC 4.0
 
 ### The Voice
 

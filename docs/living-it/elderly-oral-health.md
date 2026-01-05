@@ -102,7 +102,7 @@ Older adults often manage multiple health conditions that affect oral health:
 
 ## The Denture Myth
 
-![Older man removing dentures. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/Er3c9JVvUZM'>Unsplash</a>](../images/dentures.webp){ align=right width=200 }
+![Older man removing dentures. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/Er3c9JVvUZM'>Unsplash</a>](../images/unsplash/dentures.webp){ align=right width=200 }
 
 Let me address something that angers me: the assumption that dentures are just what happens when you get old.
 
@@ -120,7 +120,7 @@ Every tooth you keep is a victory. Keeping even a few natural teeth—especially
 
 If you still have teeth, **fight for them**. If you've already lost some, fight for the ones that remain.
 
-![Dental implant model. Photo by <a href='https://unsplash.com/@jonathanborba'>Jonathan Borba</a> on <a href='https://unsplash.com/photos/W9YEY6G8LVM'>Unsplash</a>](../images/implant.webp){ align=right width=200 }
+![Dental implant model. Photo by <a href='https://unsplash.com/@jonathanborba'>Jonathan Borba</a> on <a href='https://unsplash.com/photos/W9YEY6G8LVM'>Unsplash</a>](../images/unsplash/implant.webp){ align=right width=200 }
 
 ## The Medications Conversation
 

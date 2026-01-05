@@ -10,7 +10,7 @@ So let me be your guide through this territory. I'll tell you which essential oi
 
 ## The Chemistry of Essential Oils
 
-![The Tooth Fairy distilling essential oils.](../images/tooth-fairy-distilling.webp){ width=400 align=right }
+![The Tooth Fairy distilling essential oils.](../images/tooth-fairy/distilling.webp){ width=400 align=right }
 
 Essential oils are volatile aromatic compounds extracted from plants—usually through steam distillation or cold pressing. "Essential" doesn't mean "necessary"; it refers to the "essence" of the plant's fragrance. These are concentrated extracts, far more potent than the plant material itself.
 

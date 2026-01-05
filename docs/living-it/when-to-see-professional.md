@@ -2,7 +2,7 @@
 
 ## What Natural Approaches Can't Fix
 
-![The Tooth Fairy shaking hands with a friendly dentist.](../images/tooth-fairy-dentist.webp){ width=400 align=right }
+![The Tooth Fairy shaking hands with a friendly dentist.](../images/tooth-fairy/dentist.webp){ width=400 align=right }
 
 I need to be honest with you now, and this honesty might seem like a contradiction after everything I've told you.
 
@@ -46,7 +46,7 @@ Some conditions have progressed beyond what preventive measures can address:
 
 **Persistent sores or white/red patches.** Any lesion in your mouth that doesn't heal within two weeks needs professional evaluation. Oral cancer is real, and early detection saves lives.[^2]
 
-![Badly damaged tooth. Photo by <a href='https://unsplash.com/@dentistozkanguner'>Ozkan Guner</a> on <a href='https://unsplash.com/photos/NBD2Mg7SMWo'>Unsplash</a>](../images/damaged-tooth.webp){ align=right width=200 }
+![Badly damaged tooth. Photo by <a href='https://unsplash.com/@dentistozkanguner'>Ozkan Guner</a> on <a href='https://unsplash.com/photos/NBD2Mg7SMWo'>Unsplash</a>](../images/unsplash/damaged-tooth.webp){ align=right width=200 }
 
 **Teeth with visible holes or dark areas.** Once a cavity has broken through the enamel surface and created an actual hole, remineralization cannot rebuild it. You need a filling. Delay means the decay spreads deeper, potentially reaching the pulp and requiring root canal treatment—or extraction.
 
@@ -56,7 +56,7 @@ Some conditions have progressed beyond what preventive measures can address:
 
 ## What Dentists Do That You Cannot
 
-![Dentist performing a dental cleaning. Photo by <a href='https://unsplash.com/@carocaro1987'>Caroline LM</a> on <a href='https://unsplash.com/photos/8BkF0sTC6Uo'>Unsplash</a>](../images/dentist.webp){ align=right width=200 }
+![Dentist performing a dental cleaning. Photo by <a href='https://unsplash.com/@carocaro1987'>Caroline LM</a> on <a href='https://unsplash.com/photos/8BkF0sTC6Uo'>Unsplash</a>](../images/unsplash/dentist.webp){ align=right width=200 }
 
 I've been critical of certain aspects of modern dentistry in this book—the over-reliance on antimicrobials, the sometimes mechanical approach to what is fundamentally an ecological problem. But let me be equally clear about what professional dental care provides that no home approach can replicate.
 

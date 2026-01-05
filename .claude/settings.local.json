@@ -97,7 +97,9 @@
       "Bash(ffmpeg:*)",
       "Bash(for f in salt heart breath dentist crystals paradigm hugs formulating)",
       "Bash(do ffmpeg -y -i \"/home/xram/Documents/beyond-the-burn/docs/images/tooth-fairy-$f.png\" -vf \"scale=''if\\(gt\\(iw,ih\\),min\\(1000,iw\\),-2\\)'':''if\\(gt\\(ih,iw\\),min\\(1000,ih\\),-2\\)''\" -quality 85 \"/home/xram/Documents/beyond-the-burn/docs/images/tooth-fairy-$f.webp\")",
-      "Bash(for f in microbiome tongue mom-toddler)"
+      "Bash(for f in microbiome tongue mom-toddler)",
+      "Bash(xargs:*)",
+      "Bash(__NEW_LINE__ echo \"\")"
     ]
   }
 }

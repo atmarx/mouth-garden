@@ -4,7 +4,7 @@
 
 ---
 
-![The Tooth Fairy collecting morning dew.](../images/tooth-fairy-dew.webp){ width=400 align=right }
+![The Tooth Fairy collecting morning dew.](../images/tooth-fairy/dew.webp){ width=400 align=right }
 
 Let me tell you about the most underappreciated fluid in your body.
 

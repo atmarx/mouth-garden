@@ -124,7 +124,7 @@ The pattern here is that antiseptics are useful for specific therapeutic situati
 
 ## The Marketing Reality
 
-![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy-scolding.webp){ width=400 align=right }
+![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy/scolding.webp){ width=400 align=right }
 
 Why do people use antiseptic mouthwash daily despite the limited evidence of benefit and the emerging evidence of harm?
 

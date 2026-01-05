@@ -1,6 +1,6 @@
 # Chapter 22: Resins and Extracts — Propolis, Myrrh, and Bloodroot
 
-![The Tooth Fairy examining amber propolis and dark myrrh resin.](../images/tooth-fairy-resins.webp){ width=400 align=right }
+![The Tooth Fairy examining amber propolis and dark myrrh resin.](../images/tooth-fairy/resins.webp){ width=400 align=right }
 
 Some of the most powerful botanical medicines for oral health aren't leaves or roots—they're sticky, resinous substances that plants and insects produce for protection. These concentrated materials pack intense biological activity into small doses.
 

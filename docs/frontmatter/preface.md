@@ -1,6 +1,6 @@
 # Preface: A Confession from Your Midnight Visitor
 
-![Tooth fairy, weary after a life of collecting teeth.](../images/tooth-fairy.webp){ width=400 align=right }
+![Tooth fairy, weary after a life of collecting teeth.](../images/tooth-fairy/main.webp){ width=400 align=right }
 
 I need to tell you something, and I need you to actually listen this time.
 
@@ -10,7 +10,7 @@ I know, I know—that's a strange thing for the Tooth Fairy to say. You've been 
 
 You see, somewhere along the way, there was a misunderstanding about my role in all this. You think I'm a collector, a curator of calcium phosphate, some sort of dental acquisitions specialist fluttering through the night with a coin purse and an enthusiasm for bicuspids. But that was never the point. The coins weren't payment for goods received—they were consolation prizes. They were my way of saying, "I'm sorry this happened to you. I'm sorry no one taught you better. Here's something shiny to soften the loss."
 
-![The Tooth Fairy, saddened after another collection.](../images/tooth-fairy-sad.webp){ width=400 align=left }
+![The Tooth Fairy, saddened after another collection.](../images/tooth-fairy/sad.webp){ width=400 align=left }
 
 **Every tooth I take is a small tragedy.**
 
@@ -48,7 +48,7 @@ The science is there. The evidence is there. The ancient wisdom is there, increa
 
 **That's why I'm here.**
 
-![The Tooth Fairy teaching children how to brush.](../images/tooth-fairy-teaching.webp){ width=400 align=right }
+![The Tooth Fairy teaching children how to brush.](../images/tooth-fairy/teaching.webp){ width=400 align=right }
 
 I'm going to tell you about enamel and how it's constantly rebuilding itself. I'm going to explain why saliva is a miracle fluid that you've been taking for granted. I'm going to introduce you to the bacteria that are trying to help you and the ones that only become a problem when you create the conditions for them to thrive. I'm going to walk you through the herbs and roots that your ancestors knew—sage and ginger and the remarkable miswak tree—and explain why modern science is increasingly confirming what they understood intuitively.
 

@@ -1,6 +1,6 @@
 # Chapter 19: The Warming Roots — Ginger and Its Kin
 
-![The Tooth Fairy holding fresh ginger root with a cup of steaming ginger tea.](../images/tooth-fairy-ginger.webp){ width=400 align=right }
+![The Tooth Fairy holding fresh ginger root with a cup of steaming ginger tea.](../images/tooth-fairy/ginger.webp){ width=400 align=right }
 
 There's a family of plants that humans have reached for, across cultures and centuries, whenever inflammation needed soothing. The Zingiberaceae—the ginger family—and their pungent, warming rhizomes.
 

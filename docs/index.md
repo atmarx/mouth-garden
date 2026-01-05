@@ -2,9 +2,9 @@
 
 ## What the Tooth Fairy Has Been Trying to Tell You
 
-![The Tooth Fairy welcomes you to her apothecary.](./images/tooth-fairy-welcome.webp){ width=400 align=right }
+![The Tooth Fairy welcomes you to her apothecary.](./images/tooth-fairy/welcome.webp){ width=400 align=right }
 
-Your mouth isn't a war zone. It's an **ecosystem**. A garden. A coral reef, if you want to get poetic about it.
+Your mouth isn't a war zone. It's an **ecosystem**, like a coral reef or a garden (if you want to get poetic about it).
 
 There are hundreds of species of bacteria in there, and a *lot* of them are trying to help you. When you napalm the whole system with antiseptic mouthwash, you don't create health. You create chaos.
 
@@ -118,7 +118,9 @@ This book is about understanding what's actually happening in your mouth every h
 
 <div class="closing-note" markdown>
 
-*"Read carefully. Apply wisely. And for the love of everything—stop burning your mouth with products that destroy the very ecosystem trying to protect you."*
+![The Tooth Fairy watering her garden.](./images/tooth-fairy/watering-garden.webp){ width=200 align=left }
+
+*"Read carefully. Apply wisely. And for the love of everything—stop burning your mouth with products that destroy the very ecosystem trying to protect you.  **Keeping your teeth can be easy once you understand how your mouth works!**"*
 
 *— The Tooth Fairy, who would rather be in her garden than under your pillow*
 

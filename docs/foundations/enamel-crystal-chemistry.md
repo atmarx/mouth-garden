@@ -4,7 +4,7 @@
 
 ---
 
-![Healthy mouth with teeth. Photo by <a href='https://unsplash.com/@dentistozkanguner'>Ozkan Guner</a> on <a href='https://unsplash.com/photos/enO4DQOQu7k'>Unsplash</a>](../images/healthy-mouth.webp){ align=right width=350 }
+![Healthy mouth with teeth. Photo by <a href='https://unsplash.com/@dentistozkanguner'>Ozkan Guner</a> on <a href='https://unsplash.com/photos/enO4DQOQu7k'>Unsplash</a>](../images/unsplash/healthy-mouth.webp){ align=right width=350 }
 
 Let me introduce you to the hardest substance your body will ever produce.
 

@@ -109,7 +109,7 @@ If you recognize several of these signs, you're likely grinding.
 
 ## The Professional Solution: Night Guards
 
-![Person inserting a dental night guard. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/fmB7IdFjhTM'>Unsplash</a>](../images/nightguard.webp){ align=right width=400 }
+![Person inserting a dental night guard. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/fmB7IdFjhTM'>Unsplash</a>](../images/unsplash/nightguard.webp){ align=right width=400 }
 
 Let me be direct: if you have significant bruxism, you probably need a **night guard** (also called an occlusal splint or bite guard).
 

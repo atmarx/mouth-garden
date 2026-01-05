@@ -6,7 +6,7 @@
 
 Acid is the proximate cause of enamel demineralization. This is chemistry, not opinion. When hydrogen ions accumulate in the fluid surrounding your teeth, they drive the dissolution of hydroxyapatite. Below the critical pH, your enamel loses more mineral than it gains.
 
-![Person eating citrus fruit. Photo by <a href='https://unsplash.com/@enginakyurt'>Engin Akyurt</a> on <a href='https://unsplash.com/photos/b6CCEsofl90'>Unsplash</a>](../images/orange.webp){ align=right width=400 }
+![Person eating citrus fruit. Photo by <a href='https://unsplash.com/@enginakyurt'>Engin Akyurt</a> on <a href='https://unsplash.com/photos/b6CCEsofl90'>Unsplash</a>](../images/unsplash/orange.webp){ align=right width=400 }
 
 But here's what the simple "acid is bad" message misses: **not all acid exposures are equally harmful.** The pH value on a label tells you only part of the story. To understand whether something is truly dangerous to your teeth, you need to understand buffering capacity, acid strength, and exposure patterns.
 

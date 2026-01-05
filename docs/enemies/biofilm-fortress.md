@@ -14,7 +14,7 @@ This is **biofilm**. And understanding its structure explains why chemical appro
 
 A biofilm is a structured community of microorganisms attached to a surface and enclosed in a self-produced matrix of **extracellular polymeric substances (EPS)**—a fancy term for the slime that bacteria secrete to create their habitat.
 
-![The Tooth Fairy demonstrating biofilm on a rock in a stream.](../images/tooth-fairy-biofilm.webp){ width=400 align=right }
+![The Tooth Fairy demonstrating biofilm on a rock in a stream.](../images/tooth-fairy/biofilm.webp){ width=400 align=right }
 
 Biofilms aren't unique to mouths. They form on rocks in streams, on ship hulls, inside pipes, on medical implants—anywhere bacteria can attach to a surface and have access to nutrients and water. The tendency to form biofilms is one of the most fundamental bacterial behaviors.
 

@@ -2,7 +2,7 @@
 
 ## A Brief History of Getting It Wrong
 
-![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy-scolding.webp){ width=400 align=right }
+![The Tooth Fairy scolding some rather toothless villagers.](../images/tooth-fairy/scolding.webp){ width=400 align=right }
 
 ---
 

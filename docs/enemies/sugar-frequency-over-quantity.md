@@ -4,7 +4,7 @@
 
 ---
 
-![The Tooth Fairy, exhausted by the endless parade of sweets.](../images/tooth-fairy-candy.webp){ width=400 align=right }
+![The Tooth Fairy, exhausted by the endless parade of sweets.](../images/tooth-fairy/candy.webp){ width=400 align=right }
 
 "Cut back on sugar."
 
